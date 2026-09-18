@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué artículo regula el Defensor del Pueblo?",
+    "opciones": [
+      "52",
+      "53",
+      "54",
+      "55"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 2,
+    "pregunta": "El Defensor del Pueblo es:",
+    "opciones": [
+      "Ministro",
+      "Alto comisionado de las Cortes Generales",
+      "Juez",
+      "Diputado"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué función tiene el Defensor del Pueblo?",
+    "opciones": [
+      "Aprobar leyes",
+      "Supervisar la actividad de la Administración",
+      "Dirigir las Fuerzas Armadas",
+      "Convocar elecciones"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué artículo regula la suspensión de derechos?",
+    "opciones": [
+      "53",
+      "54",
+      "55",
+      "56"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué Título regula los derechos y deberes fundamentales?",
+    "opciones": [
+      "Título Preliminar",
+      "Título I",
+      "Título II",
+      "Título III"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué Título regula la Corona?",
+    "opciones": [
+      "I",
+      "II",
+      "III",
+      "IV"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué Título regula las Cortes Generales?",
+    "opciones": [
+      "II",
+      "III",
+      "IV",
+      "V"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué Título regula el Gobierno y la Administración?",
+    "opciones": [
+      "III",
+      "IV",
+      "V",
+      "VI"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué Título regula el Poder Judicial?",
+    "opciones": [
+      "V",
+      "VI",
+      "VII",
+      "VIII"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué Título regula la organización territorial?",
+    "opciones": [
+      "VI",
+      "VII",
+      "VIII",
+      "IX"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué Título regula el Tribunal Constitucional?",
+    "opciones": [
+      "VII",
+      "VIII",
+      "IX",
+      "X"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué Título regula la reforma constitucional?",
+    "opciones": [
+      "VIII",
+      "IX",
+      "X",
+      "XI"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Cuántos artículos tiene la Constitución?",
+    "opciones": [
+      "155",
+      "165",
+      "169",
+      "175"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Cuántos Títulos tiene?",
+    "opciones": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué artículos forman el Título Preliminar?",
+    "opciones": [
+      "1-9",
+      "1-10",
+      "10-55",
+      "14-29"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué artículos forman el Título I?",
+    "opciones": [
+      "1-9",
+      "10-55",
+      "14-38",
+      "39-55"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué artículo corresponde a la libertad de empresa?",
+    "opciones": [
+      "35",
+      "36",
+      "37",
+      "38"
+    ],
+    "respuesta_correcta": "D"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué artículo corresponde a la educación?",
+    "opciones": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué artículo corresponde a la huelga?",
+    "opciones": [
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué artículo corresponde al derecho de petición?",
+    "opciones": [
+      "28",
+      "29",
+      "30",
+      "31"
+    ],
+    "respuesta_correcta": "B"
+  }
+]

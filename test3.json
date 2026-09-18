@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Cuál de estos pertenece a la tutela judicial efectiva?",
+    "opciones": [
+      "Presunción de inocencia",
+      "Derecho a la vivienda",
+      "Libertad de empresa",
+      "Derecho de huelga"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué artículo establece el principio de legalidad penal?",
+    "opciones": [
+      "24",
+      "25",
+      "26",
+      "27"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué artículo prohíbe los Tribunales de Honor en el ámbito de la Administración civil?",
+    "opciones": [
+      "25",
+      "26",
+      "27",
+      "28"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué artículo reconoce el derecho a la educación?",
+    "opciones": [
+      "26",
+      "27",
+      "28",
+      "29"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 5,
+    "pregunta": "La enseñanza básica es:",
+    "opciones": [
+      "Obligatoria y gratuita",
+      "Voluntaria y gratuita",
+      "Obligatoria y de pago",
+      "Voluntaria y de pago"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué artículo regula la libertad sindical y la huelga?",
+    "opciones": [
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué artículo regula el derecho de petición?",
+    "opciones": [
+      "27",
+      "28",
+      "29",
+      "30"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cómo se ejerce el derecho de petición?",
+    "opciones": [
+      "Solo verbalmente",
+      "Por escrito",
+      "Solo mediante abogado",
+      "Solo ante los tribunales"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué artículo establece el derecho y deber de defender España?",
+    "opciones": [
+      "29",
+      "30",
+      "31",
+      "32"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué artículo regula el sistema tributario?",
+    "opciones": [
+      "30",
+      "31",
+      "32",
+      "33"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 11,
+    "pregunta": "El sistema tributario debe inspirarse en:",
+    "opciones": [
+      "Igualdad y progresividad",
+      "Libertad y seguridad",
+      "Jerarquía y publicidad",
+      "Unidad y autonomía"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué artículo regula el matrimonio?",
+    "opciones": [
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué artículo reconoce la propiedad privada y la herencia?",
+    "opciones": [
+      "32",
+      "33",
+      "34",
+      "35"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué artículo regula el derecho de fundación?",
+    "opciones": [
+      "33",
+      "34",
+      "35",
+      "36"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué artículo regula el derecho al trabajo?",
+    "opciones": [
+      "34",
+      "35",
+      "36",
+      "37"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué artículo regula los Colegios Profesionales?",
+    "opciones": [
+      "35",
+      "36",
+      "37",
+      "38"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué artículo regula la negociación colectiva?",
+    "opciones": [
+      "36",
+      "37",
+      "38",
+      "39"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué artículo reconoce la libertad de empresa?",
+    "opciones": [
+      "36",
+      "37",
+      "38",
+      "39"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Entre qué artículos están los principios rectores?",
+    "opciones": [
+      "15-29",
+      "30-38",
+      "39-52",
+      "53-55"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué artículo regula las garantías de los derechos?",
+    "opciones": [
+      "51",
+      "52",
+      "53",
+      "54"
+    ],
+    "respuesta_correcta": "C"
+  }
+]

@@ -1,0 +1,222 @@
+[
+    {
+        "id": 1,
+        "pregunta": "¿En qué año fue aprobada la Constitución Española vigente?",
+        "opciones":[
+            "A) 1975",
+            "B) 1976",
+            "C) 1978",
+            "D) 1980"
+        ] ,   
+        "correcta": "C) 1978"
+    },
+    {
+        "id": 2,
+        "pregunta": "¿Qué día fue ratificada mediante referéndum?",
+        "opciones":[
+            "A) 31 de octubre",
+            "B) 6 de diciembre",
+            "C) 27 de diciembre",
+            "D) 29 de diciembre"
+        ],    
+        "correcta": "B) 6 de diciembre"
+    },
+    {
+        "id": 3,
+        "pregunta": "¿Cuándo entró en vigor la Constitución?",
+        "opciones":[
+            "A) 6 de diciembre de 1978",
+            "B) 27 de diciembre de 1978",
+            "C) 29 de diciembre de 1978",
+            "D) 1 de enero de 1979"
+        ],
+        "correcta": "C) 29 de diciembre de 1978"
+    },
+    {
+        "id": 4,
+        "pregunta": "¿Quién aprobó la Constitución antes de su ratificación?",
+        "opciones":[
+            "A) El Gobierno",
+            "B) Las Cortes Generales",
+            "C) El Tribunal Constitucional",
+            "D) El Rey"
+        ],
+        "correcta": "B) Las Cortes Generales"
+    },
+    {
+        "id": 5,
+        "pregunta": "¿Cuál es la forma política del Estado español?",
+        "opciones":[
+            "A) República",
+            "B) Monarquía absoluta",
+            "C) Monarquía parlamentaria",
+            "D) República parlamentaria"
+        ],
+        "correcta": "C) Monarquía parlamentaria"
+    },
+    {
+        "id": 6,
+        "pregunta": "¿Dónde reside la soberanía nacional?",
+        "opciones":[
+            "A) En el Rey",
+            "B) En las Cortes",
+            "C) En el Gobierno",
+            "D) En el pueblo español"
+        ],
+        "correcta": "D) En el pueblo español"
+    },
+    {
+        "id": 7,
+        "pregunta": "¿Cuál NO es un valor superior del ordenamiento jurídico?",
+        "opciones":[
+            "A) Libertad",
+            "B) Justicia",
+            "C) Seguridad",
+            "D) Igualdad"
+        ],
+        "correcta": "C) Seguridad"
+    },
+    {
+        "id": 8,
+        "pregunta": "¿Qué artículo establece la forma política del Estado?",
+        "opciones":[
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "correcta": "A) 1"
+    },
+    {
+        "id": 9,
+        "pregunta": "¿Qué artículo regula la unidad, autonomía y solidaridad?",
+        "opciones":[
+            "A) 1",
+            "B) 2",
+            "C) 3",
+            "D) 4"
+        ],
+        "correcta": "B) 2"
+    },
+    {
+        "id": 10,
+        "pregunta": "¿Cuál es la lengua española oficial del Estado?",
+        "opciones":[
+            "A) Castellano",
+            "B) Catalán",
+            "C) Gallego",
+            "D) Euskera"
+        ],
+        "correcta": "A) Castellano"
+    },
+    {
+        "id": 11,
+        "pregunta": "¿Qué artículo regula la bandera?",
+        "opciones":[
+            "A) 3",
+            "B) 4",
+            "C) 5",
+            "D) 6"
+        ],
+        "correcta": "B) 4"
+    },
+    {
+        "id": 12,
+        "pregunta": "¿Cuál es la capital del Estado?",
+        "opciones":[
+            "A) Sevilla",
+            "B) Barcelona",
+            "C) Madrid",
+            "D) Valencia"
+        ],
+        "correcta": "C) Madrid"
+    },
+    {
+        "id": 13,
+        "pregunta": "¿Qué artículo regula los partidos políticos?",
+        "opciones":[
+            "A) 5",
+            "B) 6",
+            "C) 7",
+            "D) 8"
+        ],
+        "correcta": "B) 6"
+    },
+    {
+        "id": 14,
+        "pregunta": "¿Qué artículo regula los sindicatos?",
+        "opciones":[
+            "A) 6",
+            "B) 7",
+            "C) 8",
+            "D) 9"
+        ],
+        "correcta": "B) 7"
+    },
+    {
+        "id": 15,
+        "pregunta": "¿Qué artículo regula las Fuerzas Armadas?",
+        "opciones":[
+            "A) 6",
+            "B) 7",
+            "C) 8",
+            "D) 9"
+        ],
+        "correcta": "C) 8"
+    },
+    {
+        "id": 16,
+        "pregunta": "¿Cuál es una misión de las Fuerzas Armadas?",
+        "opciones":[
+            "A) Aprobar leyes",
+            "B) Defender la integridad territorial",
+            "C) Dirigir los municipios",
+            "D) Nombrar jueces"
+        ],
+        "correcta": "B) Defender la integridad territorial"
+    },
+    {
+        "id": 17,
+        "pregunta": "¿A qué están sujetos los ciudadanos y los poderes públicos?",
+        "opciones":[ 
+            "A) Solo a las leyes",
+            "B) A la Constitución y al resto del ordenamiento jurídico",
+            "C) Solo a los reglamentos",
+            "D) A las órdenes del Gobierno"
+    ],
+        "correcta": "B) A la Constitución y al resto del ordenamiento jurídico"
+    },
+    {
+        "id": 18,
+        "pregunta": "¿Cuál es un principio del artículo 9?",
+        "opciones":[
+            "A) Censura previa",
+            "B) Legalidad",
+            "C) Secreto de las normas",
+            "D) Arbitrariedad"
+        ],
+        "correcta": "B) Legalidad"
+    },
+    {
+        "id": 19,
+        "pregunta": "¿Qué artículo regula la dignidad de la persona?",
+        "opciones":[
+            "A) 9",
+            "B) 10",
+            "C) 11",
+            "D) 12"
+        ],
+        "correcta": "B) 10"
+    },
+    {
+        "id": 20,
+        "pregunta": "¿Qué norma internacional menciona expresamente el artículo 10 para interpretar los derechos fundamentales?",
+        "opciones":[
+            "A) Código Civil",
+            "B) Declaración Universal de Derechos Humanos",
+            "C) Código Penal",
+            "D) Estatuto de Autonomía"
+        ],
+        "correcta": "B) Declaración Universal de Derechos Humanos"
+    }
+]

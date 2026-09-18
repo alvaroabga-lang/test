@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué artículo regula la nacionalidad?",
+    "opciones": [
+      "10",
+      "11",
+      "12",
+      "13"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Cuál es la mayoría de edad?",
+    "opciones": [
+      "16",
+      "17",
+      "18",
+      "21"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué artículo establece la mayoría de edad?",
+    "opciones": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué artículo regula a los extranjeros?",
+    "opciones": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué artículo establece la igualdad ante la ley?",
+    "opciones": [
+      "13",
+      "14",
+      "15",
+      "16"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué derecho aparece en el artículo 15?",
+    "opciones": [
+      "Educación",
+      "Vida e integridad física y moral",
+      "Reunión",
+      "Petición"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué libertad regula el artículo 16?",
+    "opciones": [
+      "Circulación",
+      "Ideológica y religiosa",
+      "Sindical",
+      "Empresarial"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Cuál es el plazo máximo general de la detención preventiva?",
+    "opciones": [
+      "24 horas",
+      "48 horas",
+      "72 horas",
+      "96 horas"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué artículo regula la detención preventiva?",
+    "opciones": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué artículo protege el honor, intimidad y propia imagen?",
+    "opciones": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué artículo protege la inviolabilidad del domicilio?",
+    "opciones": [
+      "17",
+      "18",
+      "19",
+      "20"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué artículo reconoce la libertad de residencia y circulación?",
+    "opciones": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué artículo regula la libertad de expresión?",
+    "opciones": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Existe censura previa?",
+    "opciones": [
+      "Sí",
+      "No",
+      "Solo en prensa",
+      "Solo en televisión"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué artículo regula el derecho de reunión?",
+    "opciones": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 16,
+    "pregunta": "Las reuniones pacíficas y sin armas:",
+    "opciones": [
+      "Necesitan siempre autorización",
+      "No necesitan autorización previa",
+      "Están prohibidas",
+      "Necesitan autorización judicial"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué artículo regula la asociación?",
+    "opciones": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué asociaciones están prohibidas?",
+    "opciones": [
+      "Todas",
+      "Secretas y de carácter paramilitar",
+      "Deportivas",
+      "Culturales"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué artículo regula la participación en asuntos públicos?",
+    "opciones": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Qué artículo regula la tutela judicial efectiva?",
+    "opciones": [
+      "23",
+      "24",
+      "25",
+      "26"
+    ],
+    "respuesta_correcta": "B"
+  }
+]

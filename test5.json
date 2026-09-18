@@ -1,0 +1,222 @@
+[
+  {
+    "id": 1,
+    "pregunta": "¿Qué artículo corresponde al derecho al trabajo?",
+    "opciones": [
+      "33",
+      "34",
+      "35",
+      "36"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 2,
+    "pregunta": "¿Qué artículo corresponde a la propiedad privada?",
+    "opciones": [
+      "31",
+      "32",
+      "33",
+      "34"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 3,
+    "pregunta": "¿Qué artículo corresponde a la igualdad?",
+    "opciones": [
+      "12",
+      "13",
+      "14",
+      "15"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 4,
+    "pregunta": "¿Qué artículo corresponde a la libertad religiosa?",
+    "opciones": [
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 5,
+    "pregunta": "¿Qué artículo corresponde a la tutela judicial efectiva?",
+    "opciones": [
+      "22",
+      "23",
+      "24",
+      "25"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 6,
+    "pregunta": "¿Qué artículo corresponde a la participación política?",
+    "opciones": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 7,
+    "pregunta": "¿Qué artículo corresponde a la reunión?",
+    "opciones": [
+      "20",
+      "21",
+      "22",
+      "23"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 8,
+    "pregunta": "¿Qué artículo corresponde a la asociación?",
+    "opciones": [
+      "21",
+      "22",
+      "23",
+      "24"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 9,
+    "pregunta": "¿Qué artículo corresponde a la libertad de expresión?",
+    "opciones": [
+      "18",
+      "19",
+      "20",
+      "21"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 10,
+    "pregunta": "¿Qué artículo corresponde al derecho a la vida?",
+    "opciones": [
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 11,
+    "pregunta": "¿Qué artículo establece la mayoría de edad?",
+    "opciones": [
+      "11",
+      "12",
+      "13",
+      "14"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 12,
+    "pregunta": "¿Qué artículo establece la dignidad de la persona?",
+    "opciones": [
+      "8",
+      "9",
+      "10",
+      "11"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 13,
+    "pregunta": "¿Qué artículo regula las Fuerzas Armadas?",
+    "opciones": [
+      "6",
+      "7",
+      "8",
+      "9"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 14,
+    "pregunta": "¿Qué artículo establece los principios jurídicos básicos?",
+    "opciones": [
+      "7",
+      "8",
+      "9",
+      "10"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 15,
+    "pregunta": "¿Qué artículo establece que España es un Estado social y democrático de Derecho?",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 16,
+    "pregunta": "¿Qué artículo establece la monarquía parlamentaria?",
+    "opciones": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "respuesta_correcta": "A"
+  },
+  {
+    "id": 17,
+    "pregunta": "¿Qué artículo regula la reforma constitucional ordinaria?",
+    "opciones": [
+      "166",
+      "167",
+      "168",
+      "169"
+    ],
+    "respuesta_correcta": "B"
+  },
+  {
+    "id": 18,
+    "pregunta": "¿Qué artículo regula la reforma constitucional agravada?",
+    "opciones": [
+      "166",
+      "167",
+      "168",
+      "169"
+    ],
+    "respuesta_correcta": "C"
+  },
+  {
+    "id": 19,
+    "pregunta": "¿Qué artículo impide iniciar la reforma constitucional durante la guerra o determinados estados del artículo 116?",
+    "opciones": [
+      "166",
+      "167",
+      "168",
+      "169"
+    ],
+    "respuesta_correcta": "D"
+  },
+  {
+    "id": 20,
+    "pregunta": "¿Cuál es la asociación CORRECTA?",
+    "opciones": [
+      "Art. 14 → igualdad",
+      "Art. 27 → huelga",
+      "Art. 29 → educación",
+      "Art. 38 → petición"
+    ],
+    "respuesta_correcta": "A"
+  }
+]

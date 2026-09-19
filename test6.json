@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 1. Tema 2. Igualdad, discriminación y violencia de género",
+  "preguntas": [
+    {
+      "pregunta": "El concepto de sexo hace referencia principalmente a:",
+      "opciones": {
+        "A": "Los roles sociales.",
+        "B": "Las características biológicas, anatómicas y fisiológicas.",
+        "C": "Las expectativas sociales.",
+        "D": "Los estereotipos."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "El género se refiere principalmente a:",
+      "opciones": {
+        "A": "Las características exclusivamente biológicas.",
+        "B": "Las características anatómicas.",
+        "C": "Los roles, comportamientos y expectativas construidos social y culturalmente.",
+        "D": "Las características fisiológicas."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia fundamental entre sexo y género?",
+      "opciones": {
+        "A": "No existe ninguna diferencia.",
+        "B": "El sexo es social y el género biológico.",
+        "C": "El sexo se relaciona principalmente con características biológicas y el género con construcciones sociales y culturales.",
+        "D": "El género solo se utiliza en el ámbito laboral."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "Los roles de género son:",
+      "opciones": {
+        "A": "Características biológicas.",
+        "B": "Comportamientos y funciones atribuidos socialmente a mujeres y hombres.",
+        "C": "Derechos fundamentales.",
+        "D": "Normas penales."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Los estereotipos de género son:",
+      "opciones": {
+        "A": "Leyes sobre igualdad.",
+        "B": "Ideas o creencias preconcebidas sobre mujeres y hombres.",
+        "C": "Medidas de protección.",
+        "D": "Protocolos administrativos."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La igualdad formal hace referencia a:",
+      "opciones": {
+        "A": "La igualdad efectiva en la práctica.",
+        "B": "La igualdad reconocida jurídicamente.",
+        "C": "La corresponsabilidad.",
+        "D": "Las acciones positivas."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La igualdad real o efectiva pretende:",
+      "opciones": {
+        "A": "Que exista únicamente igualdad legal.",
+        "B": "Que la igualdad exista en la práctica.",
+        "C": "Eliminar la igualdad formal.",
+        "D": "Aplicar medidas solo a mujeres."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La igualdad de oportunidades significa:",
+      "opciones": {
+        "A": "Que todas las personas deben obtener exactamente los mismos resultados.",
+        "B": "Que mujeres y hombres dispongan de las mismas posibilidades y oportunidades.",
+        "C": "Que solo las mujeres tengan oportunidades.",
+        "D": "Que no puedan adoptarse medidas específicas."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La equidad pretende:",
+      "opciones": {
+        "A": "Ignorar las diferencias de situación.",
+        "B": "Conseguir una igualdad efectiva teniendo en cuenta las circunstancias existentes.",
+        "C": "Eliminar la igualdad.",
+        "D": "Sustituir las leyes."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La perspectiva de género permite:",
+      "opciones": {
+        "A": "Ignorar las diferencias entre mujeres y hombres.",
+        "B": "Analizar cómo las diferencias sociales pueden generar desigualdades.",
+        "C": "Aplicar únicamente sanciones.",
+        "D": "Sustituir la legislación."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La transversalidad de género significa:",
+      "opciones": {
+        "A": "Aplicar políticas de igualdad únicamente en servicios sociales.",
+        "B": "Integrar la perspectiva de género en todas las políticas y actuaciones.",
+        "C": "Aplicar medidas únicamente a mujeres.",
+        "D": "Eliminar las políticas generales."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La transversalidad de género también se conoce como:",
+      "opciones": {
+        "A": "Mainstreaming de género.",
+        "B": "Discriminación indirecta.",
+        "C": "Conciliación.",
+        "D": "Corresponsabilidad."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Las acciones positivas tienen como finalidad:",
+      "opciones": {
+        "A": "Mantener desigualdades.",
+        "B": "Corregir situaciones de desigualdad existentes.",
+        "C": "Eliminar la igualdad formal.",
+        "D": "Crear nuevos estereotipos."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Una medida específica para favorecer la incorporación de mujeres en un ámbito donde están infrarrepresentadas puede ser:",
+      "opciones": {
+        "A": "Una acción positiva.",
+        "B": "Una discriminación indirecta.",
+        "C": "Un estereotipo.",
+        "D": "Una represalia."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La discriminación directa consiste en:",
+      "opciones": {
+        "A": "Una medida aparentemente neutra.",
+        "B": "Un trato menos favorable por razón de sexo.",
+        "C": "Una acción positiva.",
+        "D": "Una medida de conciliación."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La discriminación indirecta se produce cuando:",
+      "opciones": {
+        "A": "Existe siempre una intención expresa de discriminar.",
+        "B": "Una disposición aparentemente neutra produce una desventaja particular.",
+        "C": "Se aplica una acción positiva.",
+        "D": "Se utiliza lenguaje inclusivo."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Una norma aparentemente neutra que perjudica especialmente a las mujeres sin justificación objetiva puede constituir:",
+      "opciones": {
+        "A": "Discriminación indirecta.",
+        "B": "Igualdad formal.",
+        "C": "Corresponsabilidad.",
+        "D": "Acción positiva."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El trato desfavorable relacionado con el embarazo o la maternidad constituye:",
+      "opciones": {
+        "A": "Discriminación indirecta necesariamente.",
+        "B": "Discriminación directa por razón de sexo.",
+        "C": "Una acción positiva.",
+        "D": "Una medida de conciliación."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La discriminación por razón de embarazo se considera:",
+      "opciones": {
+        "A": "Discriminación directa por razón de sexo.",
+        "B": "Discriminación exclusivamente económica.",
+        "C": "Discriminación política.",
+        "D": "Ninguna forma de discriminación."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El acoso sexual se caracteriza principalmente por:",
+      "opciones": {
+        "A": "Tener naturaleza sexual.",
+        "B": "Ser siempre físico.",
+        "C": "Ser siempre laboral.",
+        "D": "Ser exclusivamente psicológico."
+      },
+      "respuesta_correcta": "A"
+    }
+  ]
+}

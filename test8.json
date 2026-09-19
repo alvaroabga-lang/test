@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 3. Tema 2. Igualdad, discriminación y violencia de género",
+  "preguntas": [
+    {
+      "pregunta": "La LO 1/2004 se refiere a relaciones similares de afectividad:",
+      "opciones": {
+        "A": "Solo cuando existe convivencia.",
+        "B": "Incluso sin convivencia.",
+        "C": "Solo si están casados.",
+        "D": "Solo si existen hijos."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes puede ser una forma de violencia de género?",
+      "opciones": {
+        "A": "Violencia física.",
+        "B": "Violencia psicológica.",
+        "C": "Violencia sexual.",
+        "D": "Todas las anteriores."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "La violencia psicológica puede incluir:",
+      "opciones": {
+        "A": "Amenazas e intimidación.",
+        "B": "Únicamente lesiones físicas.",
+        "C": "Únicamente daños materiales.",
+        "D": "Únicamente delitos económicos."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La violencia sexual comprende:",
+      "opciones": {
+        "A": "Conductas de carácter sexual no consentidas o realizadas mediante formas de coacción previstas legalmente.",
+        "B": "Únicamente insultos.",
+        "C": "Únicamente violencia económica.",
+        "D": "Únicamente discriminación laboral."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La violencia económica:",
+      "opciones": {
+        "A": "No puede formar parte de la violencia de género.",
+        "B": "Está reconocida dentro del concepto amplio desarrollado por la normativa andaluza.",
+        "C": "Solo existe en el ámbito penal.",
+        "D": "Es siempre una acción positiva."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La violencia vicaria hace referencia a:",
+      "opciones": {
+        "A": "Una medida de conciliación.",
+        "B": "La utilización de personas vinculadas a la mujer, especialmente hijos e hijas, para causarle daño.",
+        "C": "Una forma de discriminación indirecta exclusivamente laboral.",
+        "D": "Una medida de protección económica."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La prevención de la violencia de género pretende:",
+      "opciones": {
+        "A": "Actuar solamente después de la violencia.",
+        "B": "Evitar la aparición de situaciones de violencia.",
+        "C": "Eliminar la protección.",
+        "D": "Sustituir la asistencia jurídica."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Una medida preventiva puede ser:",
+      "opciones": {
+        "A": "Sensibilización.",
+        "B": "Formación.",
+        "C": "Educación.",
+        "D": "Todas las anteriores."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "La protección integral implica:",
+      "opciones": {
+        "A": "Actuar únicamente desde el ámbito penal.",
+        "B": "Actuar desde diferentes ámbitos de prevención, asistencia, protección y recuperación.",
+        "C": "Actuar exclusivamente desde los servicios sociales.",
+        "D": "Actuar únicamente desde los tribunales."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Entre las medidas de protección pueden encontrarse:",
+      "opciones": {
+        "A": "Atención psicológica.",
+        "B": "Asistencia jurídica.",
+        "C": "Atención social.",
+        "D": "Todas las anteriores."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "La Ley 13/2007 es:",
+      "opciones": {
+        "A": "Una ley estatal.",
+        "B": "Una ley de Andalucía.",
+        "C": "Una ordenanza del Ayuntamiento de Cádiz.",
+        "D": "Una ley europea."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "El título de la Ley 13/2007 hace referencia a:",
+      "opciones": {
+        "A": "Medidas de prevención y protección integral contra la violencia de género.",
+        "B": "Contratación pública.",
+        "C": "Igualdad salarial exclusivamente.",
+        "D": "Organización municipal."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La Ley 13/2007 se aplica en:",
+      "opciones": {
+        "A": "Andalucía.",
+        "B": "Toda Europa exclusivamente.",
+        "C": "Solo Cádiz.",
+        "D": "Solo Madrid."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La Ley 13/2007 se caracteriza por contemplar:",
+      "opciones": {
+        "A": "Prevención y protección integral.",
+        "B": "Únicamente sanciones.",
+        "C": "Únicamente medidas penales.",
+        "D": "Únicamente medidas económicas."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Entre los ámbitos de actuación frente a la violencia de género se encuentra:",
+      "opciones": {
+        "A": "Educación.",
+        "B": "Salud.",
+        "C": "Servicios sociales.",
+        "D": "Todas las anteriores."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "También pueden incluirse actuaciones en:",
+      "opciones": {
+        "A": "Empleo y formación.",
+        "B": "Atención jurídica.",
+        "C": "Atención psicológica.",
+        "D": "Todas las anteriores."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "¿Qué diferencia básica existe entre la LO 1/2004 y la Ley 13/2007?",
+      "opciones": {
+        "A": "La primera es estatal y la segunda andaluza.",
+        "B": "Ambas son exclusivamente municipales.",
+        "C": "La primera es andaluza y la segunda estatal.",
+        "D": "No existe diferencia."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La Ley 13/2007 tiene un concepto y ámbito de actuación:",
+      "opciones": {
+        "A": "Más amplio que el de la LO 1/2004 en diversos aspectos.",
+        "B": "Más reducido necesariamente.",
+        "C": "Exactamente idéntico en todos sus extremos.",
+        "D": "Exclusivamente penal."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La coordinación institucional es:",
+      "opciones": {
+        "A": "Importante en la actuación contra la violencia de género.",
+        "B": "Irrelevante.",
+        "C": "Exclusivamente municipal.",
+        "D": "Contraria a la protección integral."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El I Plan de Igualdad del Ayuntamiento de Cádiz tiene vigencia:",
+      "opciones": {
+        "A": "2020-2023.",
+        "B": "2021-2024.",
+        "C": "2023-2026.",
+        "D": "2024-2027."
+      },
+      "respuesta_correcta": "C"
+    }
+  ]
+}

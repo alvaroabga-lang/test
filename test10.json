@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 5. Tema 2. Igualdad, discriminación y violencia de género",
+  "preguntas": [
+    {
+      "pregunta": "La secuencia correcta del protocolo es:",
+      "opciones": {
+        "A": "Detección → prevención → reparación → actuación.",
+        "B": "Prevención → detección → actuación → reparación.",
+        "C": "Actuación → prevención → detección → reparación.",
+        "D": "Reparación → actuación → prevención → detección."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La prevención dentro del protocolo puede incluir:",
+      "opciones": {
+        "A": "Información y formación.",
+        "B": "Sensibilización.",
+        "C": "Difusión del protocolo.",
+        "D": "Todas las anteriores."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "La detección consiste en:",
+      "opciones": {
+        "A": "Identificar posibles situaciones de acoso.",
+        "B": "Dictar automáticamente una sanción.",
+        "C": "Finalizar el procedimiento.",
+        "D": "Eliminar la confidencialidad."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La actuación implica:",
+      "opciones": {
+        "A": "Activar los mecanismos y procedimientos previstos.",
+        "B": "Ignorar la denuncia.",
+        "C": "Eliminar las garantías.",
+        "D": "No intervenir."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La reparación pretende:",
+      "opciones": {
+        "A": "Responder a las consecuencias de la situación de acoso y proteger a la persona afectada.",
+        "B": "Eliminar los derechos de la víctima.",
+        "C": "Evitar cualquier actuación.",
+        "D": "Sustituir la prevención."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Entre los principios que deben respetarse en la actuación frente al acoso está:",
+      "opciones": {
+        "A": "Dignidad.",
+        "B": "Igualdad.",
+        "C": "No discriminación.",
+        "D": "Todas las anteriores."
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "La confidencialidad:",
+      "opciones": {
+        "A": "Es un principio relevante en estos procedimientos.",
+        "B": "Nunca debe respetarse.",
+        "C": "Solo se aplica a contratos.",
+        "D": "Impide cualquier actuación."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La protección frente a represalias significa:",
+      "opciones": {
+        "A": "Proteger a quien ejerce sus derechos frente a consecuencias negativas por reclamar.",
+        "B": "Prohibir las denuncias.",
+        "C": "Castigar a quien reclama.",
+        "D": "Eliminar la investigación."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes parejas es correcta?",
+      "opciones": {
+        "A": "Sexo → social / género → biológico.",
+        "B": "Sexo → biológico / género → social.",
+        "C": "Sexo → jurídico / género → penal.",
+        "D": "Sexo → laboral / género → económico."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes parejas es correcta?",
+      "opciones": {
+        "A": "Igualdad formal → práctica / igualdad real → ley.",
+        "B": "Igualdad formal → ley / igualdad real → práctica.",
+        "C": "Ambas son exclusivamente laborales.",
+        "D": "Ambas son exactamente iguales."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes parejas es correcta?",
+      "opciones": {
+        "A": "Directa → medida neutra / indirecta → trato directo.",
+        "B": "Directa → trato desfavorable / indirecta → desventaja derivada de medida aparentemente neutra.",
+        "C": "Directa → conciliación / indirecta → corresponsabilidad.",
+        "D": "Directa → formación / indirecta → sensibilización."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes parejas es correcta?",
+      "opciones": {
+        "A": "Acoso sexual → naturaleza sexual / acoso por razón de sexo → relacionado con el sexo.",
+        "B": "Acoso sexual → exclusivamente psicológico / acoso por razón de sexo → exclusivamente físico.",
+        "C": "Son conceptos idénticos.",
+        "D": "Ninguno afecta a la dignidad."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes parejas es correcta?",
+      "opciones": {
+        "A": "Conciliación → reparto de tareas / corresponsabilidad → compatibilización.",
+        "B": "Conciliación → compatibilización de ámbitos / corresponsabilidad → reparto equilibrado.",
+        "C": "Son exactamente iguales.",
+        "D": "Ambas se refieren exclusivamente al empleo."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes parejas es correcta?",
+      "opciones": {
+        "A": "LO 1/2004 → estatal / Ley 13/2007 → Andalucía.",
+        "B": "LO 1/2004 → municipal / Ley 13/2007 → estatal.",
+        "C": "Ambas → municipales.",
+        "D": "Ambas → europeas."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes parejas es correcta?",
+      "opciones": {
+        "A": "Plan de Igualdad → procedimiento de denuncia / Protocolo → ocho líneas estratégicas.",
+        "B": "Plan de Igualdad → líneas y medidas / Protocolo → prevención, detección, actuación y reparación.",
+        "C": "Ambos son exactamente lo mismo.",
+        "D": "Ninguno se relaciona con el acoso."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál es el periodo de vigencia del I Plan de Igualdad del Ayuntamiento de Cádiz?",
+      "opciones": {
+        "A": "2022-2025.",
+        "B": "2023-2026.",
+        "C": "2024-2027.",
+        "D": "2020-2024."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál es el número de líneas estratégicas del Plan?",
+      "opciones": {
+        "A": "6.",
+        "B": "7.",
+        "C": "8.",
+        "D": "9."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Cuál es el número de medidas reparativas contempladas en el Plan?",
+      "opciones": {
+        "A": "21.",
+        "B": "25.",
+        "C": "31.",
+        "D": "35."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes secuencias resume correctamente el protocolo municipal?",
+      "opciones": {
+        "A": "Prevención → detección → actuación → reparación.",
+        "B": "Detección → sanción → prevención → reparación.",
+        "C": "Prevención → sanción → conciliación → reparación.",
+        "D": "Formación → contratación → sanción → evaluación."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones es correcta?",
+      "opciones": {
+        "A": "El sexo es una construcción exclusivamente social y el género una característica biológica.",
+        "B": "La discriminación indirecta siempre requiere una intención expresa de discriminar.",
+        "C": "El Plan de Igualdad del Ayuntamiento de Cádiz tiene vigencia 2023-2026 y contempla 8 líneas estratégicas.",
+        "D": "El protocolo municipal se limita exclusivamente a la reparación."
+      },
+      "respuesta_correcta": "C"
+    }
+  ]
+}

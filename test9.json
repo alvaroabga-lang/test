@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 4. Tema 2. Igualdad, discriminación y violencia de género",
+  "preguntas": [
+    {
+      "pregunta": "El Plan de Igualdad corresponde al:",
+      "opciones": {
+        "A": "Ayuntamiento de Cádiz y sus Organismos Autónomos.",
+        "B": "Gobierno de España exclusivamente.",
+        "C": "Parlamento Europeo.",
+        "D": "Ayuntamiento de Sevilla."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El Plan contempla:",
+      "opciones": {
+        "A": "4 líneas estratégicas.",
+        "B": "6 líneas estratégicas.",
+        "C": "8 líneas estratégicas.",
+        "D": "12 líneas estratégicas."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "El Plan contempla:",
+      "opciones": {
+        "A": "10 medidas reparativas.",
+        "B": "20 medidas reparativas.",
+        "C": "31 medidas reparativas.",
+        "D": "50 medidas reparativas."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Cuál es la primera línea estratégica del Plan?",
+      "opciones": {
+        "A": "Comunicación inclusiva.",
+        "B": "Acceso al empleo y contratación.",
+        "C": "Formación.",
+        "D": "Seguimiento."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál es la segunda línea estratégica?",
+      "opciones": {
+        "A": "Promoción profesional interna.",
+        "B": "Comunicación.",
+        "C": "Conciliación.",
+        "D": "Salud."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La tercera línea estratégica se refiere a:",
+      "opciones": {
+        "A": "Prevención del acoso sexual y por razón de sexo.",
+        "B": "Empleo.",
+        "C": "Urbanismo.",
+        "D": "Presupuesto."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La cuarta línea estratégica se refiere a:",
+      "opciones": {
+        "A": "Igualdad y no discriminación por orientación sexual e identidad de género.",
+        "B": "Contratación exclusivamente.",
+        "C": "Seguridad ciudadana.",
+        "D": "Salud laboral exclusivamente."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La quinta línea estratégica se refiere a:",
+      "opciones": {
+        "A": "Conciliación corresponsable.",
+        "B": "Empleo.",
+        "C": "Comunicación.",
+        "D": "Acoso."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La sexta línea estratégica se refiere a:",
+      "opciones": {
+        "A": "Formación y sensibilización en igualdad de género.",
+        "B": "Contratación.",
+        "C": "Promoción interna.",
+        "D": "Seguridad."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La séptima línea estratégica se refiere a:",
+      "opciones": {
+        "A": "Comunicación inclusiva y no sexista.",
+        "B": "Empleo.",
+        "C": "Salud.",
+        "D": "Contratación."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La octava línea estratégica se refiere a:",
+      "opciones": {
+        "A": "Difusión, evaluación y seguimiento del Plan de Igualdad.",
+        "B": "Violencia penal.",
+        "C": "Contratación.",
+        "D": "Salud."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál de estas NO es una de las ocho líneas estratégicas?",
+      "opciones": {
+        "A": "Acceso al empleo y contratación.",
+        "B": "Promoción profesional interna.",
+        "C": "Política exterior.",
+        "D": "Formación y sensibilización."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "La secuencia correcta de las primeras líneas estratégicas es:",
+      "opciones": {
+        "A": "Empleo → promoción → acoso.",
+        "B": "Acoso → empleo → promoción.",
+        "C": "Comunicación → empleo → promoción.",
+        "D": "Formación → empleo → acoso."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La línea sobre conciliación incorpora el concepto de:",
+      "opciones": {
+        "A": "Corresponsabilidad.",
+        "B": "Discriminación indirecta.",
+        "C": "Represalia.",
+        "D": "Sanción."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La comunicación institucional del Ayuntamiento debe favorecer:",
+      "opciones": {
+        "A": "Comunicación inclusiva y no sexista.",
+        "B": "Estereotipos.",
+        "C": "Invisibilización.",
+        "D": "Lenguaje discriminatorio."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El protocolo municipal trata sobre:",
+      "opciones": {
+        "A": "Prevención, detección, actuación y reparación frente al acoso sexual y por razón de sexo.",
+        "B": "Únicamente contratación.",
+        "C": "Únicamente igualdad salarial.",
+        "D": "Únicamente violencia doméstica."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál es la primera fase del protocolo?",
+      "opciones": {
+        "A": "Reparación.",
+        "B": "Actuación.",
+        "C": "Prevención.",
+        "D": "Detección."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Cuál es la segunda fase?",
+      "opciones": {
+        "A": "Prevención.",
+        "B": "Detección.",
+        "C": "Reparación.",
+        "D": "Evaluación."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál es la tercera fase?",
+      "opciones": {
+        "A": "Actuación.",
+        "B": "Prevención.",
+        "C": "Detección.",
+        "D": "Formación."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál es la cuarta fase?",
+      "opciones": {
+        "A": "Prevención.",
+        "B": "Detección.",
+        "C": "Actuación.",
+        "D": "Reparación."
+      },
+      "respuesta_correcta": "D"
+    }
+  ]
+}

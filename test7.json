@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 2. Tema 2. Igualdad, discriminación y violencia de género",
+  "preguntas": [
+    {
+      "pregunta": "El acoso por razón de sexo consiste en:",
+      "opciones": {
+        "A": "Cualquier comportamiento relacionado con el sexo de una persona que atente contra su dignidad.",
+        "B": "Exclusivamente una conducta sexual.",
+        "C": "Una acción positiva.",
+        "D": "Una medida de conciliación."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia fundamental entre acoso sexual y acoso por razón de sexo?",
+      "opciones": {
+        "A": "No existe ninguna.",
+        "B": "El acoso sexual tiene naturaleza sexual y el acoso por razón de sexo está relacionado con el sexo de la persona.",
+        "C": "El primero solo puede ser físico.",
+        "D": "El segundo solo puede producirse fuera del trabajo."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "El acoso sexual puede ser:",
+      "opciones": {
+        "A": "Únicamente físico.",
+        "B": "Únicamente verbal.",
+        "C": "Verbal o físico.",
+        "D": "Únicamente escrito."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "El acoso por razón de sexo puede:",
+      "opciones": {
+        "A": "Atentar contra la dignidad.",
+        "B": "Ser siempre una acción positiva.",
+        "C": "Ser siempre una medida legal.",
+        "D": "No tener consecuencias."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La protección frente a represalias pretende:",
+      "opciones": {
+        "A": "Castigar a quien reclama.",
+        "B": "Evitar consecuencias negativas por reclamar derechos frente a la discriminación.",
+        "C": "Eliminar las denuncias.",
+        "D": "Impedir investigaciones."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Los actos discriminatorios pueden producir:",
+      "opciones": {
+        "A": "Consecuencias jurídicas.",
+        "B": "Únicamente consecuencias sociales.",
+        "C": "Ninguna consecuencia.",
+        "D": "Solo consecuencias educativas."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La Ley Orgánica 3/2007 tiene como objetivo:",
+      "opciones": {
+        "A": "Regular exclusivamente la violencia de género.",
+        "B": "Hacer efectivo el derecho de igualdad de trato y oportunidades entre mujeres y hombres.",
+        "C": "Regular únicamente los servicios municipales.",
+        "D": "Regular exclusivamente la contratación."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La igualdad de trato implica:",
+      "opciones": {
+        "A": "Ausencia de discriminación por razón de sexo.",
+        "B": "Aplicar siempre medidas diferentes.",
+        "C": "Eliminar la igualdad formal.",
+        "D": "Dar siempre prioridad a un sexo."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La igualdad efectiva pretende:",
+      "opciones": {
+        "A": "Que la igualdad quede únicamente reconocida legalmente.",
+        "B": "Que se traduzca en una igualdad real y práctica.",
+        "C": "Eliminar las políticas de igualdad.",
+        "D": "Sustituir la igualdad de oportunidades."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La no discriminación significa:",
+      "opciones": {
+        "A": "Que ninguna persona debe recibir un trato discriminatorio por razón de sexo.",
+        "B": "Que no pueden existir acciones positivas.",
+        "C": "Que todas las personas deben tener los mismos resultados.",
+        "D": "Que no pueden existir diferencias sociales."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La conciliación pretende facilitar la compatibilidad entre:",
+      "opciones": {
+        "A": "Vida laboral, personal y familiar.",
+        "B": "Únicamente vida laboral y política.",
+        "C": "Únicamente vida familiar.",
+        "D": "Únicamente vida personal."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La corresponsabilidad supone:",
+      "opciones": {
+        "A": "Repartir equilibradamente las responsabilidades familiares y domésticas.",
+        "B": "Atribuir las tareas familiares a las mujeres.",
+        "C": "Eliminar la conciliación.",
+        "D": "Separar la vida laboral de la familiar."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia entre conciliación y corresponsabilidad?",
+      "opciones": {
+        "A": "Son exactamente iguales.",
+        "B": "La conciliación busca compatibilizar ámbitos de vida y la corresponsabilidad repartir responsabilidades.",
+        "C": "La conciliación solo afecta a hombres.",
+        "D": "La corresponsabilidad solo afecta al empleo."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "El lenguaje no sexista pretende:",
+      "opciones": {
+        "A": "Reforzar estereotipos.",
+        "B": "Evitar expresiones que invisibilicen o discriminen.",
+        "C": "Eliminar la comunicación institucional.",
+        "D": "Sustituir las leyes."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La violencia de género se relaciona con:",
+      "opciones": {
+        "A": "Discriminación, desigualdad y relaciones de poder de los hombres sobre las mujeres.",
+        "B": "Únicamente conflictos económicos.",
+        "C": "Únicamente violencia física.",
+        "D": "Únicamente conflictos familiares."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La Ley Orgánica 1/2004 es:",
+      "opciones": {
+        "A": "La Ley de Igualdad de Andalucía.",
+        "B": "La Ley de Medidas de Protección Integral contra la Violencia de Género.",
+        "C": "Una ordenanza municipal.",
+        "D": "Un protocolo del Ayuntamiento."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La Ley Orgánica 1/2004 es de fecha:",
+      "opciones": {
+        "A": "28 de diciembre de 2004.",
+        "B": "26 de noviembre de 2007.",
+        "C": "8 de marzo de 2007.",
+        "D": "1 de enero de 2004."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La Ley Orgánica 1/2004 tiene carácter:",
+      "opciones": {
+        "A": "Municipal.",
+        "B": "Estatal.",
+        "C": "Provincial.",
+        "D": "Exclusivamente europeo."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La protección establecida por la LO 1/2004 es:",
+      "opciones": {
+        "A": "Exclusivamente penal.",
+        "B": "Integral.",
+        "C": "Exclusivamente laboral.",
+        "D": "Exclusivamente económica."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Según el ámbito de la LO 1/2004, la violencia de género comprende la ejercida sobre las mujeres por:",
+      "opciones": {
+        "A": "Cualquier persona sin excepción.",
+        "B": "Quienes sean o hayan sido cónyuges o quienes estén o hayan estado ligados por relaciones similares de afectividad, aun sin convivencia.",
+        "C": "Únicamente familiares directos.",
+        "D": "Únicamente personas convivientes."
+      },
+      "respuesta_correcta": "B"
+    }
+  ]
+}

@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 5. Tema 3. Prevención de Riesgos Laborales",
+  "preguntas": [
+    {
+      "pregunta": "¿Qué artículo regula la información, consulta y participación?",
+      "opciones": {
+        "A": "Artículo 18",
+        "B": "Artículo 19",
+        "C": "Artículo 20",
+        "D": "Artículo 21"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Qué artículo regula la formación de los trabajadores?",
+      "opciones": {
+        "A": "Artículo 16",
+        "B": "Artículo 17",
+        "C": "Artículo 19",
+        "D": "Artículo 22"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Qué artículo regula las medidas de emergencia?",
+      "opciones": {
+        "A": "Artículo 18",
+        "B": "Artículo 19",
+        "C": "Artículo 20",
+        "D": "Artículo 21"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Qué artículo regula específicamente el riesgo grave e inminente?",
+      "opciones": {
+        "A": "Artículo 14",
+        "B": "Artículo 15",
+        "C": "Artículo 20",
+        "D": "Artículo 21"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "¿Qué artículo regula la vigilancia de la salud?",
+      "opciones": {
+        "A": "Artículo 18",
+        "B": "Artículo 20",
+        "C": "Artículo 21",
+        "D": "Artículo 22"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "¿Cuál de estas afirmaciones es correcta?",
+      "opciones": {
+        "A": "El trabajador paga las medidas preventivas",
+        "B": "El coste preventivo no debe recaer sobre el trabajador",
+        "C": "El empresario no tiene deber preventivo",
+        "D": "La Administración no tiene deber preventivo"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál es el primer objetivo preventivo?",
+      "opciones": {
+        "A": "Evitar los riesgos",
+        "B": "Utilizar EPI",
+        "C": "Sancionar",
+        "D": "Investigar accidentes"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Si un riesgo no puede evitarse:",
+      "opciones": {
+        "A": "Se evalúa",
+        "B": "Se ignora",
+        "C": "Se oculta",
+        "D": "Se traslada al trabajador"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Los riesgos se deben combatir preferentemente:",
+      "opciones": {
+        "A": "En su origen",
+        "B": "Después del accidente",
+        "C": "En otro centro",
+        "D": "Solo mediante EPI"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Qué protección se antepone?",
+      "opciones": {
+        "A": "Individual",
+        "B": "Colectiva",
+        "C": "Económica",
+        "D": "Ninguna"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál NO es uno de los nueve principios del artículo 15?",
+      "opciones": {
+        "A": "Evitar los riesgos",
+        "B": "Evaluar los riesgos no evitables",
+        "C": "Aumentar la protección individual antes que la colectiva",
+        "D": "Combatir los riesgos en su origen"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Cuál sí es un principio del artículo 15?",
+      "opciones": {
+        "A": "Sustituir lo peligroso",
+        "B": "Ocultar los riesgos",
+        "C": "Trasladar los riesgos",
+        "D": "Eliminar la información"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La planificación preventiva debe integrar:",
+      "opciones": {
+        "A": "Técnica",
+        "B": "Organización del trabajo",
+        "C": "Condiciones de trabajo",
+        "D": "Todas las anteriores"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "La prevención debe considerar:",
+      "opciones": {
+        "A": "Las relaciones sociales y factores ambientales",
+        "B": "Solo el salario",
+        "C": "Solo el horario",
+        "D": "Solo la antigüedad"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Las instrucciones a los trabajadores:",
+      "opciones": {
+        "A": "Forman parte de los principios de la acción preventiva",
+        "B": "Están prohibidas",
+        "C": "Sustituyen la evaluación",
+        "D": "No tienen relación con la prevención"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El empresario debe considerar las capacidades profesionales de los trabajadores:",
+      "opciones": {
+        "A": "Al encomendarles tareas",
+        "B": "Solo al pagarles",
+        "C": "Nunca",
+        "D": "Solo al jubilarse"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Para acceder a zonas de riesgo grave y específico se requiere:",
+      "opciones": {
+        "A": "Información suficiente y adecuada",
+        "B": "Solo antigüedad",
+        "C": "Solo experiencia",
+        "D": "Ningún requisito"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Las medidas preventivas deben prever:",
+      "opciones": {
+        "A": "Distracciones o imprudencias no temerarias",
+        "B": "Únicamente actuaciones intencionadas",
+        "C": "Ningún error humano",
+        "D": "Solo errores empresariales"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál de las siguientes afirmaciones es correcta?",
+      "opciones": {
+        "A": "El coste preventivo puede recaer sobre el trabajador",
+        "B": "Las obligaciones del trabajador eximen al empresario",
+        "C": "La protección colectiva debe anteponerse a la individual",
+        "D": "Los riesgos no evitables no se evalúan"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Cuál resume mejor el Tema 3?",
+      "opciones": {
+        "A": "Prevención = evitar o disminuir riesgos; derecho = protección eficaz; principios = evitar, evaluar, combatir, adaptar, técnica, sustituir, planificar, colectiva e instrucciones",
+        "B": "Prevención = utilizar únicamente EPI",
+        "C": "Prevención = actuar solo después de accidentes",
+        "D": "Prevención = responsabilidad exclusiva del trabajador"
+      },
+      "respuesta_correcta": "A"
+    }
+  ]
+}

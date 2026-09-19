@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 1. Tema 3. Prevención de Riesgos Laborales",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la norma básica española en materia de prevención de riesgos laborales?",
+      "opciones": {
+        "A": "Ley 7/1985",
+        "B": "Ley 31/1995",
+        "C": "Ley 39/2015",
+        "D": "Ley 40/2015"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál es el objeto fundamental de la Ley 31/1995?",
+      "opciones": {
+        "A": "Regular las elecciones sindicales",
+        "B": "Regular exclusivamente las sanciones",
+        "C": "Promover la seguridad y salud de los trabajadores mediante la prevención de riesgos",
+        "D": "Regular exclusivamente los contratos"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Qué se entiende por prevención?",
+      "opciones": {
+        "A": "La reparación de los daños",
+        "B": "El conjunto de actividades o medidas para evitar o disminuir los riesgos derivados del trabajo",
+        "C": "La sanción de los trabajadores",
+        "D": "La utilización exclusiva de EPI"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La prevención comprende actividades o medidas adoptadas o previstas:",
+      "opciones": {
+        "A": "Solo después de un accidente",
+        "B": "Solo al finalizar la jornada",
+        "C": "En todas las fases de actividad de la empresa",
+        "D": "Solo durante la contratación"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Qué es un riesgo laboral?",
+      "opciones": {
+        "A": "Una enfermedad",
+        "B": "La posibilidad de sufrir un determinado daño derivado del trabajo",
+        "C": "Un EPI",
+        "D": "Una sanción"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Para calificar la gravedad de un riesgo se valoran conjuntamente:",
+      "opciones": {
+        "A": "Edad y antigüedad",
+        "B": "Salario y categoría",
+        "C": "Probabilidad y severidad del daño",
+        "D": "Jornada y vacaciones"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Cuáles son daños derivados del trabajo?",
+      "opciones": {
+        "A": "Enfermedades",
+        "B": "Patologías",
+        "C": "Lesiones",
+        "D": "Todas las anteriores"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "Los daños derivados del trabajo deben sufrirse:",
+      "opciones": {
+        "A": "Con motivo u ocasión del trabajo",
+        "B": "Solo fuera del trabajo",
+        "C": "Solo durante las vacaciones",
+        "D": "Únicamente en el domicilio"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Qué es un riesgo laboral grave e inminente?",
+      "opciones": {
+        "A": "Un riesgo lejano",
+        "B": "Un riesgo que probablemente se materialice en un futuro inmediato y pueda causar daño grave",
+        "C": "Cualquier riesgo leve",
+        "D": "Un riesgo exclusivamente económico"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "En el riesgo grave e inminente, el daño debe poder ser:",
+      "opciones": {
+        "A": "Leve",
+        "B": "Económico",
+        "C": "Grave para la salud",
+        "D": "Exclusivamente material"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "En exposición a agentes susceptibles de causar daños graves, el riesgo puede ser grave e inminente aunque:",
+      "opciones": {
+        "A": "No exista exposición",
+        "B": "Los daños no se manifiesten inmediatamente",
+        "C": "El trabajador no esté trabajando",
+        "D": "No exista ningún peligro"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Qué se entiende por proceso, actividad, operación, equipo o producto potencialmente peligroso?",
+      "opciones": {
+        "A": "Aquel que siempre es seguro",
+        "B": "Aquel que sin medidas preventivas específicas puede originar riesgos",
+        "C": "Aquel que nunca requiere prevención",
+        "D": "Aquel que solo produce daños económicos"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Qué es un equipo de trabajo?",
+      "opciones": {
+        "A": "Una enfermedad",
+        "B": "Una máquina, aparato, instrumento o instalación utilizada en el trabajo",
+        "C": "Un EPI exclusivamente",
+        "D": "Un accidente"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes puede ser un equipo de trabajo?",
+      "opciones": {
+        "A": "Una máquina",
+        "B": "Un aparato",
+        "C": "Una instalación",
+        "D": "Todos los anteriores"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "¿Qué es una condición de trabajo?",
+      "opciones": {
+        "A": "Cualquier característica del trabajo que pueda influir significativamente en la generación de riesgos",
+        "B": "Solo el salario",
+        "C": "Solo la jornada",
+        "D": "Solo las vacaciones"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Entre las condiciones de trabajo se incluyen:",
+      "opciones": {
+        "A": "Locales e instalaciones",
+        "B": "Equipos y productos",
+        "C": "Agentes físicos, químicos y biológicos",
+        "D": "Todas las anteriores"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "La organización y ordenación del trabajo:",
+      "opciones": {
+        "A": "Nunca es una condición de trabajo",
+        "B": "Puede formar parte de la condición de trabajo",
+        "C": "No tiene ninguna relación con los riesgos",
+        "D": "Solo afecta al salario"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Qué es un EPI?",
+      "opciones": {
+        "A": "Un equipo destinado a proteger individualmente al trabajador frente a uno o varios riesgos",
+        "B": "Una instalación",
+        "C": "Un daño",
+        "D": "Una enfermedad"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál es un EPI?",
+      "opciones": {
+        "A": "Casco de seguridad",
+        "B": "Fotocopiadora",
+        "C": "Mesa",
+        "D": "Puerta"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Qué debe anteponerse según los principios preventivos?",
+      "opciones": {
+        "A": "Protección individual",
+        "B": "Protección colectiva",
+        "C": "Sanción",
+        "D": "Ninguna protección"
+      },
+      "respuesta_correcta": "B"
+    }
+  ]
+}

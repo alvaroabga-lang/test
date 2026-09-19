@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 3. Tema 3. Prevención de Riesgos Laborales",
+  "preguntas": [
+    {
+      "pregunta": "También deben integrarse en la planificación:",
+      "opciones": {
+        "A": "Relaciones sociales y factores ambientales",
+        "B": "Solo salarios",
+        "C": "Solo vacaciones",
+        "D": "Solo horarios"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál es el octavo principio de la acción preventiva?",
+      "opciones": {
+        "A": "Sustituir",
+        "B": "Protección colectiva antes que individual",
+        "C": "Evaluar",
+        "D": "Adaptar"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál es el noveno principio?",
+      "opciones": {
+        "A": "Dar las debidas instrucciones a los trabajadores",
+        "B": "Evitar",
+        "C": "Evaluar",
+        "D": "Sustituir"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuántos principios generales enumera el artículo 15.1?",
+      "opciones": {
+        "A": "5",
+        "B": "7",
+        "C": "9",
+        "D": "10"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Cuál es el orden correcto?",
+      "opciones": {
+        "A": "Evaluar → evitar → combatir",
+        "B": "Evitar → evaluar → combatir",
+        "C": "Combatir → evitar → evaluar",
+        "D": "Planificar → evitar → evaluar"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál es el quinto principio?",
+      "opciones": {
+        "A": "Sustituir",
+        "B": "Tener en cuenta la evolución de la técnica",
+        "C": "Evaluar",
+        "D": "Informar"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál es el sexto principio?",
+      "opciones": {
+        "A": "Sustituir lo peligroso",
+        "B": "Evitar",
+        "C": "Adaptar",
+        "D": "Informar"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál es el séptimo principio?",
+      "opciones": {
+        "A": "Planificar la prevención",
+        "B": "Evaluar",
+        "C": "Combatir",
+        "D": "Formar"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El empresario debe tener en cuenta las capacidades profesionales de los trabajadores:",
+      "opciones": {
+        "A": "En materia de seguridad y salud al encomendar tareas",
+        "B": "Solo al pagar el salario",
+        "C": "Solo durante las vacaciones",
+        "D": "Nunca"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Solo deben acceder a zonas de riesgo grave y específico los trabajadores que hayan recibido:",
+      "opciones": {
+        "A": "Información suficiente y adecuada",
+        "B": "Un aumento de sueldo",
+        "C": "Vacaciones",
+        "D": "Una sanción"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La efectividad de las medidas preventivas debe prever:",
+      "opciones": {
+        "A": "Distracciones o imprudencias no temerarias",
+        "B": "Solo accidentes intencionados",
+        "C": "Solo errores empresariales",
+        "D": "Ningún comportamiento humano"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Al adoptar medidas preventivas deben tenerse en cuenta:",
+      "opciones": {
+        "A": "Los riesgos adicionales que pudieran implicar",
+        "B": "Solo el coste económico",
+        "C": "Solo el horario",
+        "D": "Solo la antigüedad"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Una medida que genere riesgos adicionales solo debe adoptarse cuando:",
+      "opciones": {
+        "A": "Los riesgos adicionales sean superiores",
+        "B": "Sean sustancialmente inferiores a los que se pretende controlar y no haya alternativas más seguras",
+        "C": "Siempre",
+        "D": "Nunca"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La acción preventiva se planifica a partir de:",
+      "opciones": {
+        "A": "Una evaluación inicial de riesgos",
+        "B": "Una sanción",
+        "C": "Una nómina",
+        "D": "Una encuesta"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La evaluación inicial tiene en cuenta:",
+      "opciones": {
+        "A": "Naturaleza de la actividad",
+        "B": "Características de los puestos",
+        "C": "Características de los trabajadores",
+        "D": "Todas las anteriores"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "La evaluación debe actualizarse cuando:",
+      "opciones": {
+        "A": "Cambien las condiciones de trabajo",
+        "B": "Cambie el salario",
+        "C": "Llegue el verano",
+        "D": "Cambie el uniforme"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La evaluación debe revisarse, si fuera necesario, cuando:",
+      "opciones": {
+        "A": "Se produzcan daños para la salud",
+        "B": "El trabajador lo desee siempre",
+        "C": "Cambie el calendario",
+        "D": "Cambien las vacaciones"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La formación preventiva debe ser:",
+      "opciones": {
+        "A": "Teórica y práctica",
+        "B": "Solo teórica",
+        "C": "Solo práctica",
+        "D": "Inexistente"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La formación preventiva debe ser:",
+      "opciones": {
+        "A": "Suficiente y adecuada",
+        "B": "Opcional para el empresario",
+        "C": "Exclusivamente escrita",
+        "D": "Secreta"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La formación debe impartirse al trabajador:",
+      "opciones": {
+        "A": "En el momento de su contratación",
+        "B": "Solo después de un accidente",
+        "C": "Solo al jubilarse",
+        "D": "Nunca"
+      },
+      "respuesta_correcta": "A"
+    }
+  ]
+}

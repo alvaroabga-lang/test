@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 4. Tema 3. Prevención de Riesgos Laborales",
+  "preguntas": [
+    {
+      "pregunta": "La formación debe repetirse o actualizarse cuando:",
+      "opciones": {
+        "A": "Cambien las funciones o se introduzcan nuevas tecnologías o equipos",
+        "B": "Cambie el salario",
+        "C": "Llegue el verano",
+        "D": "Cambie el uniforme"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La formación preventiva debe estar centrada:",
+      "opciones": {
+        "A": "En el puesto o función del trabajador",
+        "B": "En la vida personal",
+        "C": "En el salario",
+        "D": "En las vacaciones"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El coste de la formación preventiva:",
+      "opciones": {
+        "A": "Puede recaer sobre el trabajador",
+        "B": "No puede recaer sobre el trabajador",
+        "C": "Lo paga siempre el trabajador",
+        "D": "Se descuenta del salario"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Ante un riesgo grave e inminente, el empresario debe:",
+      "opciones": {
+        "A": "Informar a los trabajadores afectados",
+        "B": "Ocultarlo",
+        "C": "Esperar al accidente",
+        "D": "Eliminar las señales"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Ante peligro grave, inminente e inevitable, los trabajadores pueden:",
+      "opciones": {
+        "A": "Interrumpir su actividad",
+        "B": "Continuar siempre obligatoriamente",
+        "C": "Eliminar los EPI",
+        "D": "Ignorar el riesgo"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Si fuera necesario, los trabajadores pueden:",
+      "opciones": {
+        "A": "Abandonar inmediatamente el lugar de trabajo",
+        "B": "Desactivar las alarmas",
+        "C": "Ocultar el riesgo",
+        "D": "Continuar siempre"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Mientras persista el peligro grave e inminente:",
+      "opciones": {
+        "A": "Puede exigirse siempre reanudar la actividad",
+        "B": "No puede exigirse reanudarla, salvo la excepción legalmente prevista",
+        "C": "El trabajador pierde sus derechos",
+        "D": "La prevención desaparece"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "El trabajador tiene derecho a interrumpir su actividad cuando considere que existe:",
+      "opciones": {
+        "A": "Riesgo grave e inminente para su vida o salud",
+        "B": "Cualquier inconveniente personal",
+        "C": "Una molestia leve",
+        "D": "Un problema salarial"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La vigilancia de la salud debe respetar:",
+      "opciones": {
+        "A": "Intimidad",
+        "B": "Dignidad",
+        "C": "Confidencialidad",
+        "D": "Todas las anteriores"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "La vigilancia de la salud se realiza en función de:",
+      "opciones": {
+        "A": "Los riesgos inherentes al trabajo",
+        "B": "El salario",
+        "C": "La antigüedad exclusivamente",
+        "D": "Las vacaciones"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Los EPI deben utilizarse cuando:",
+      "opciones": {
+        "A": "Los riesgos no puedan evitarse o limitarse suficientemente por otros medios",
+        "B": "Siempre antes que cualquier protección colectiva",
+        "C": "Nunca",
+        "D": "Solo después de un accidente"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La protección colectiva:",
+      "opciones": {
+        "A": "Tiene prioridad sobre la individual",
+        "B": "Tiene menor prioridad siempre",
+        "C": "No existe",
+        "D": "Es voluntaria"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál es la definición correcta de EPI?",
+      "opciones": {
+        "A": "Equipo destinado a ser llevado o sujetado por el trabajador para protegerlo frente a riesgos",
+        "B": "Cualquier máquina",
+        "C": "Cualquier instalación",
+        "D": "Cualquier producto"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál de estos NO es un daño derivado del trabajo?",
+      "opciones": {
+        "A": "Enfermedad",
+        "B": "Patología",
+        "C": "Lesión",
+        "D": "Salario"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "La gravedad del riesgo depende de:",
+      "opciones": {
+        "A": "Probabilidad y severidad",
+        "B": "Edad y salario",
+        "C": "Antigüedad y vacaciones",
+        "D": "Jornada y categoría"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Qué artículo contiene las definiciones principales?",
+      "opciones": {
+        "A": "Artículo 4",
+        "B": "Artículo 10",
+        "C": "Artículo 14",
+        "D": "Artículo 15"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Qué artículo regula el derecho a la protección frente a los riesgos laborales?",
+      "opciones": {
+        "A": "Artículo 4",
+        "B": "Artículo 14",
+        "C": "Artículo 15",
+        "D": "Artículo 21"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Qué artículo regula los principios de la acción preventiva?",
+      "opciones": {
+        "A": "Artículo 4",
+        "B": "Artículo 14",
+        "C": "Artículo 15",
+        "D": "Artículo 22"
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "¿Qué artículo regula la evaluación de riesgos y planificación preventiva?",
+      "opciones": {
+        "A": "Artículo 16",
+        "B": "Artículo 18",
+        "C": "Artículo 20",
+        "D": "Artículo 22"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Qué artículo regula los equipos de trabajo y medios de protección?",
+      "opciones": {
+        "A": "Artículo 14",
+        "B": "Artículo 15",
+        "C": "Artículo 17",
+        "D": "Artículo 21"
+      },
+      "respuesta_correcta": "C"
+    }
+  ]
+}

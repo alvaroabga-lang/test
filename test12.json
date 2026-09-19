@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 2. Tema 3. Prevención de Riesgos Laborales",
+  "preguntas": [
+    {
+      "pregunta": "Los trabajadores tienen derecho a:",
+      "opciones": {
+        "A": "Protección eficaz en materia de seguridad y salud",
+        "B": "No recibir formación",
+        "C": "No recibir información",
+        "D": "No utilizar medidas preventivas"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El derecho a protección eficaz supone un deber correlativo de:",
+      "opciones": {
+        "A": "Los ciudadanos",
+        "B": "El empresario",
+        "C": "Los proveedores",
+        "D": "Los clientes"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La Administración Pública tiene deber de protección:",
+      "opciones": {
+        "A": "Respecto de su personal",
+        "B": "Solo respecto de visitantes",
+        "C": "Solo respecto de empresas privadas",
+        "D": "Nunca"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál forma parte del derecho a una protección eficaz?",
+      "opciones": {
+        "A": "Información",
+        "B": "Consulta",
+        "C": "Participación",
+        "D": "Todas las anteriores"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "La formación en materia preventiva:",
+      "opciones": {
+        "A": "Forma parte del derecho a una protección eficaz",
+        "B": "Está prohibida",
+        "C": "Solo se da después de un accidente",
+        "D": "No tiene relación con la prevención"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La paralización de la actividad ante riesgo grave e inminente:",
+      "opciones": {
+        "A": "Forma parte de la protección eficaz",
+        "B": "Está prohibida",
+        "C": "Es siempre una sanción",
+        "D": "No está prevista"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La vigilancia del estado de salud:",
+      "opciones": {
+        "A": "Forma parte del derecho a una protección eficaz",
+        "B": "No tiene relación con la prevención",
+        "C": "Está prohibida",
+        "D": "Solo corresponde al trabajador"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El empresario debe garantizar la seguridad y salud:",
+      "opciones": {
+        "A": "Solo en algunos aspectos",
+        "B": "En todos los aspectos relacionados con el trabajo",
+        "C": "Solo durante la entrada",
+        "D": "Solo después de un accidente"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Las obligaciones preventivas de los trabajadores:",
+      "opciones": {
+        "A": "Eximen al empresario de su deber",
+        "B": "Complementan la acción empresarial pero no eximen al empresario",
+        "C": "Sustituyen al empresario",
+        "D": "Eliminan la prevención"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "El coste de las medidas de seguridad y salud:",
+      "opciones": {
+        "A": "Debe recaer sobre el trabajador",
+        "B": "No debe recaer en modo alguno sobre los trabajadores",
+        "C": "Se reparte siempre",
+        "D": "Lo decide el trabajador"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "¿Cuál es el primer principio de la acción preventiva?",
+      "opciones": {
+        "A": "Evaluar",
+        "B": "Evitar los riesgos",
+        "C": "Planificar",
+        "D": "Informar"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Los riesgos que no puedan evitarse deben:",
+      "opciones": {
+        "A": "Ocultarse",
+        "B": "Evaluarse",
+        "C": "Trasladarse",
+        "D": "Ignorarse"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Los riesgos deben combatirse:",
+      "opciones": {
+        "A": "En su origen",
+        "B": "Después del accidente",
+        "C": "Solo mediante EPI",
+        "D": "Fuera del centro de trabajo"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El trabajo debe:",
+      "opciones": {
+        "A": "Adaptarse a la persona",
+        "B": "Adaptarse siempre a la máquina",
+        "C": "Mantenerse invariable",
+        "D": "Evitarse"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Adaptar el trabajo a la persona incluye:",
+      "opciones": {
+        "A": "La concepción de los puestos",
+        "B": "La elección de equipos",
+        "C": "Los métodos de trabajo y producción",
+        "D": "Todas las anteriores"
+      },
+      "respuesta_correcta": "D"
+    },
+    {
+      "pregunta": "La adaptación del trabajo pretende, entre otras cosas:",
+      "opciones": {
+        "A": "Atenuar el trabajo monótono y repetitivo",
+        "B": "Aumentar los riesgos",
+        "C": "Eliminar la formación",
+        "D": "Reducir la protección"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La prevención debe tener en cuenta:",
+      "opciones": {
+        "A": "La evolución de la técnica",
+        "B": "Solo las costumbres",
+        "C": "Solo la antigüedad",
+        "D": "Solo el salario"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Lo peligroso debe sustituirse por:",
+      "opciones": {
+        "A": "Algo más peligroso",
+        "B": "Lo que entrañe poco o ningún peligro",
+        "C": "Un riesgo equivalente siempre",
+        "D": "Nada"
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La prevención debe:",
+      "opciones": {
+        "A": "Planificarse",
+        "B": "Improvisarse",
+        "C": "Realizarse solo después de accidentes",
+        "D": "Depender exclusivamente del trabajador"
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La planificación preventiva debe integrar:",
+      "opciones": {
+        "A": "Técnica",
+        "B": "Organización del trabajo",
+        "C": "Condiciones de trabajo",
+        "D": "Todas las anteriores"
+      },
+      "respuesta_correcta": "D"
+    }
+  ]
+}

@@ -1,0 +1,198 @@
+{
+  "titulo": "Tema 7. El Archivo",
+  "contenido": "El archivo. Tipos de archivos. Concepto y clases de documentos. Gestión de documentos. Organización de un archivo de oficina. Servicios del archivo.",
+  "apartados": [
+    {
+      "titulo": "1. CONCEPTO DE ARCHIVO",
+      "contenido": "El término archivo puede entenderse en dos sentidos:\n\nA) Como conjunto documental: conjunto orgánico de documentos producidos o recibidos por una persona física o jurídica, pública o privada, en el ejercicio de sus actividades.\n\nB) Como institución o unidad: institución, unidad o entidad encargada de reunir, conservar, organizar, describir y facilitar el acceso a los documentos.\n\nIDEA CLAVE: ARCHIVO = DOCUMENTOS + ORGANIZACIÓN + CONSERVACIÓN + ACCESO."
+    },
+    {
+      "titulo": "2. FINALIDADES DEL ARCHIVO",
+      "contenido": "Las principales finalidades de un archivo son:\n\n- Recoger los documentos.\n- Organizar la documentación.\n- Conservar los documentos.\n- Custodiar y proteger la documentación.\n- Facilitar la recuperación y consulta.\n- Garantizar su utilización administrativa.\n- Servir como prueba o testimonio de las actuaciones realizadas.\n- Facilitar el acceso a la documentación cuando legalmente proceda.\n- Gestionar el ciclo de vida de los documentos.\n- Conservar aquellos documentos que tengan valor histórico o permanente.\n\nIDEA CLAVE: El archivo no es simplemente un lugar donde se guardan papeles."
+    },
+    {
+      "titulo": "3. CONCEPTO DE DOCUMENTO",
+      "contenido": "El documento de archivo es aquel que ha sido producido o recibido en el ejercicio de las funciones o actividades de una persona o entidad y que sirve como testimonio de dichas actividades.\n\nPuede presentarse en diferentes soportes:\n\n- Papel.\n- Electrónico.\n- Fotográfico.\n- Audiovisual.\n- Sonoro.\n- Otros soportes.\n\nEl soporte por sí solo no determina que un documento sea de archivo.\n\nIDEA CLAVE: DOCUMENTO = TESTIMONIO DE UNA ACTIVIDAD O FUNCIÓN."
+    },
+    {
+      "titulo": "4. CARACTERÍSTICAS DEL DOCUMENTO ADMINISTRATIVO",
+      "contenido": "Los documentos administrativos deben reunir determinadas características:\n\n- AUTENTICIDAD: el documento es realmente lo que afirma ser y procede de la fuente que corresponde.\n- INTEGRIDAD: el documento no ha sido alterado indebidamente.\n- FIABILIDAD: el documento constituye una representación fiable de los hechos o actuaciones que recoge.\n- DISPONIBILIDAD: puede localizarse y utilizarse cuando sea necesario.\n- CONTEXTUALIZACIÓN: se conoce su relación con la actividad, procedimiento, órgano o expediente al que pertenece.\n\nLa Ley 7/2011 de Andalucía relaciona la gestión documental con la garantía de autenticidad, fiabilidad, integridad, disponibilidad y contextualización.\n\nREGLA PARA MEMORIZAR: A-F-I-D-C = Autenticidad, Fiabilidad, Integridad, Disponibilidad y Contextualización."
+    },
+    {
+      "titulo": "5. CLASES DE DOCUMENTOS",
+      "contenido": "Los documentos pueden clasificarse atendiendo a distintos criterios.\n\nSegún el soporte:\n- Documentos en papel.\n- Documentos electrónicos.\n- Documentos audiovisuales.\n- Documentos sonoros.\n- Documentos fotográficos.\n\nSegún su origen:\n- Documentos públicos.\n- Documentos privados.\n\nSegún su forma:\n- Originales.\n- Copias.\n- Copias auténticas.\n- Borradores, cuando proceda.\n- Documentos electrónicos.\n\nDOCUMENTO ORIGINAL: ejemplar originario del documento.\n\nCOPIA: reproducción de un documento.\n\nCOPIA AUTÉNTICA: reproducción que cuenta con garantías legales de autenticidad respecto del original.\n\nIMPORTANTE: COPIA NO ES LO MISMO QUE COPIA AUTÉNTICA."
+    },
+    {
+      "titulo": "6. DOCUMENTO ELECTRÓNICO",
+      "contenido": "El documento electrónico es la información de cualquier naturaleza en forma electrónica, archivada en un soporte electrónico según un formato determinado y susceptible de identificación y tratamiento diferenciado.\n\nUn documento electrónico no consiste simplemente en guardar un documento en un ordenador. Debe garantizarse su:\n\n- Identificación.\n- Organización.\n- Conservación.\n- Seguridad.\n- Disponibilidad.\n- Acceso.\n- Integridad.\n- Autenticidad.\n- Contextualización.\n\nLa Ley 7/2011 establece que las funciones archivísticas se aplican a los archivos integrantes del Sistema Archivístico de Andalucía incorporando las nuevas tecnologías.\n\nIDEA CLAVE: DOCUMENTO ELECTRÓNICO = DOCUMENTO + IDENTIFICACIÓN + CONSERVACIÓN + SEGURIDAD + ACCESO."
+    },
+    {
+      "titulo": "7. EXPEDIENTE ADMINISTRATIVO",
+      "contenido": "El expediente administrativo es el conjunto ordenado de documentos y actuaciones que sirven de antecedente y fundamento a una resolución administrativa, así como las diligencias encaminadas a ejecutarla.\n\nPor ejemplo, en un expediente de licencia pueden aparecer:\n\n- Solicitud.\n- Documentación aportada.\n- Informes.\n- Requerimientos.\n- Alegaciones.\n- Propuestas.\n- Resolución.\n- Notificación.\n- Documentos relacionados con su ejecución.\n\nDIFERENCIA FUNDAMENTAL:\n- DOCUMENTO = unidad documental.\n- EXPEDIENTE = conjunto ordenado de documentos y actuaciones relacionadas con un asunto."
+    },
+    {
+      "titulo": "8. SERIE DOCUMENTAL",
+      "contenido": "La serie documental está formada por los documentos o expedientes producidos de forma continuada por una misma unidad administrativa en el ejercicio de una determinada función.\n\nEjemplos:\n- Serie de contratación.\n- Serie de licencias.\n- Serie de personal.\n- Serie de expedientes sancionadores.\n- Serie de subvenciones.\n\nIDEA CLAVE: SERIE = CONJUNTO DE EXPEDIENTES O DOCUMENTOS PRODUCIDOS POR UNA MISMA ACTIVIDAD O FUNCIÓN."
+    },
+    {
+      "titulo": "9. FONDO DOCUMENTAL",
+      "contenido": "El fondo documental es el conjunto orgánico de documentos producidos o recibidos por una persona, familia, organismo o institución en el ejercicio de sus actividades.\n\nEjemplo: el Fondo Documental del Ayuntamiento de Cádiz está formado por la documentación producida o recibida por el Ayuntamiento en el desarrollo de sus funciones.\n\nIDEA CLAVE: FONDO = CONJUNTO ORGÁNICO DE DOCUMENTOS PRODUCIDOS O RECIBIDOS POR UNA PERSONA U ORGANISMO."
+    },
+    {
+      "titulo": "10. DIFERENCIAS ENTRE DOCUMENTO, EXPEDIENTE, SERIE, FONDO Y ARCHIVO",
+      "contenido": "DOCUMENTO: unidad documental individual.\n\nEXPEDIENTE: conjunto ordenado de documentos y actuaciones relacionadas con un asunto.\n\nSERIE DOCUMENTAL: conjunto de documentos o expedientes producidos por una misma función o actividad.\n\nFONDO DOCUMENTAL: conjunto orgánico de documentos producidos o recibidos por una persona, organismo o institución.\n\nARCHIVO: conjunto documental organizado y/o institución encargada de custodiarlo, conservarlo y facilitar su acceso.\n\nREGLA PARA MEMORIZAR:\nFONDO → SERIES → EXPEDIENTES → DOCUMENTOS."
+    },
+    {
+      "titulo": "11. TIPOS DE ARCHIVOS",
+      "contenido": "Los archivos pueden clasificarse atendiendo al ciclo de vida de los documentos.\n\nEl Real Decreto 1708/2011, en relación con el Sistema de Archivos de la Administración General del Estado, contempla:\n\n1. Archivos de oficina o de gestión.\n2. Archivos generales o centrales.\n3. Archivo intermedio.\n4. Archivos históricos.\n\nREGLA PARA MEMORIZAR:\nOFICINA → CENTRAL → INTERMEDIO → HISTÓRICO."
+    },
+    {
+      "titulo": "12. ARCHIVO DE OFICINA O DE GESTIÓN",
+      "contenido": "El archivo de oficina o de gestión se encuentra en las unidades administrativas y custodia los documentos que están en tramitación o que son objeto de utilización administrativa frecuente.\n\nLos documentos permanecen en este archivo mientras sean necesarios para la gestión cotidiana y posteriormente pueden ser transferidos a otros archivos.\n\nFunciones principales:\n- Apoyar la gestión administrativa.\n- Facilitar la consulta de los documentos.\n- Servir de prueba de las actuaciones realizadas.\n- Organizar la documentación.\n- Custodiar los documentos.\n- Preparar las transferencias.\n- Aplicar las normas de conservación y organización.\n- Facilitar la consulta de los documentos.\n\nIDEA CLAVE: ARCHIVO DE OFICINA = TRAMITACIÓN + USO FRECUENTE + CUSTODIA INICIAL."
+    },
+    {
+      "titulo": "13. ARCHIVO CENTRAL",
+      "contenido": "El archivo central recibe los documentos procedentes de los archivos de oficina una vez finalizada su fase de tramitación y transcurridos los períodos correspondientes.\n\nFunciones principales:\n- Custodiar los documentos.\n- Organizar la documentación.\n- Coordinar los archivos de oficina cuando corresponda.\n- Asesorar en materia archivística.\n- Describir los documentos.\n- Preparar las transferencias.\n- Participar en la valoración documental.\n\nEl Real Decreto 1708/2011 atribuye entre sus funciones la identificación de las series documentales y la preparación de los cuadros de clasificación correspondientes.\n\nIDEA CLAVE: ARCHIVO CENTRAL = DOCUMENTACIÓN QUE YA NO SE UTILIZA CONSTANTEMENTE, PERO QUE TODAVÍA DEBE CONSERVARSE."
+    },
+    {
+      "titulo": "14. ARCHIVO INTERMEDIO",
+      "contenido": "El archivo intermedio custodia documentos que ya no tienen un uso administrativo frecuente, pero que todavía deben conservarse durante un determinado período de tiempo.\n\nFunciones principales:\n- Conservar los documentos.\n- Participar en la valoración documental.\n- Aplicar las decisiones de eliminación cuando legalmente proceda.\n- Preparar y realizar las transferencias correspondientes.\n- Transferir al archivo histórico aquellos documentos que deban conservarse permanentemente.\n\nIDEA CLAVE: ARCHIVO INTERMEDIO = DOCUMENTOS SIN USO ACTIVO PERO QUE TODAVÍA DEBEN CONSERVARSE."
+    },
+    {
+      "titulo": "15. ARCHIVO HISTÓRICO",
+      "contenido": "El archivo histórico conserva documentos que tienen valor histórico, cultural o patrimonial y que deben conservarse de manera permanente.\n\nFunciones principales:\n- Conservación permanente.\n- Tratamiento archivístico.\n- Organización.\n- Descripción.\n- Facilitar la investigación.\n- Difusión del patrimonio documental.\n\nIDEA CLAVE: ARCHIVO HISTÓRICO = CONSERVACIÓN PERMANENTE DEL DOCUMENTO CON VALOR HISTÓRICO."
+    },
+    {
+      "titulo": "16. CICLO VITAL DE LOS DOCUMENTOS",
+      "contenido": "Los documentos atraviesan distintas fases a lo largo de su vida:\n\n1. FASE ACTIVA: los documentos se utilizan de manera frecuente y están relacionados con la gestión administrativa. Se encuentran principalmente en los archivos de oficina o gestión.\n\n2. FASE SEMIACTIVA: disminuye su utilización, pero todavía deben conservarse por razones administrativas, legales, fiscales, jurídicas u otras. Pueden encontrarse en archivos centrales o intermedios, dependiendo del sistema archivístico.\n\n3. FASE HISTÓRICA: determinados documentos adquieren valor histórico o permanente y pasan a conservarse de manera definitiva en archivos históricos.\n\nREGLA PARA MEMORIZAR:\nACTIVA → SEMIACTIVA → HISTÓRICA.\n\nESQUEMA DE ARCHIVOS:\nOFICINA → CENTRAL → INTERMEDIO → HISTÓRICO."
+    },
+    {
+      "titulo": "17. GESTIÓN DOCUMENTAL",
+      "contenido": "La gestión documental es el conjunto de funciones y procesos regulados que se aplican de manera transversal durante todo el ciclo de vida de los documentos, con la finalidad de garantizar su acceso y utilización y contribuir a la configuración del Patrimonio Documental de Andalucía.\n\nLas principales funciones de la gestión documental son:\n\n1. Identificación.\n2. Valoración.\n3. Organización.\n4. Descripción.\n5. Conservación.\n6. Custodia.\n7. Acceso.\n8. Servicio.\n\nREGLA PARA MEMORIZAR:\nIDENTIFICACIÓN → VALORACIÓN → ORGANIZACIÓN → DESCRIPCIÓN → CONSERVACIÓN → CUSTODIA → ACCESO → SERVICIO."
+    },
+    {
+      "titulo": "18. IDENTIFICACIÓN DOCUMENTAL",
+      "contenido": "La identificación documental permite determinar las características de la documentación y su relación con las funciones administrativas.\n\nDebe permitir conocer:\n- Quién produce la documentación.\n- Qué función desarrolla.\n- Qué procedimiento genera los documentos.\n- A qué serie documental pertenecen.\n- Qué relación tienen con otros documentos.\n\nIDEA CLAVE: IDENTIFICAR = SABER QUIÉN PRODUCE + QUÉ FUNCIÓN + QUÉ PROCEDIMIENTO + QUÉ SERIE."
+    },
+    {
+      "titulo": "19. VALORACIÓN DOCUMENTAL",
+      "contenido": "La valoración documental consiste en determinar el valor de los documentos para establecer cuánto tiempo deben conservarse, cuándo deben transferirse, si pueden eliminarse o si deben conservarse permanentemente.\n\nLos documentos pueden tener diferentes valores:\n- Valor administrativo.\n- Valor legal o jurídico.\n- Valor histórico.\n- Valor informativo.\n\nIDEA CLAVE: VALORAR = DETERMINAR VALOR + PLAZO DE CONSERVACIÓN + DESTINO."
+    },
+    {
+      "titulo": "20. ELIMINACIÓN DOCUMENTAL",
+      "contenido": "La eliminación de documentos no puede realizarse de manera arbitraria. Debe efectuarse conforme a las normas, procedimientos y decisiones de valoración documental que resulten aplicables.\n\nIMPORTANTE PARA EL PERSONAL SUBALTERNO: nunca se deben destruir documentos administrativos por decisión personal. La eliminación debe estar autorizada y regulada.\n\nIDEA CLAVE: ELIMINAR DOCUMENTOS = SIEMPRE CONFORME A LAS REGLAS Y PROCEDIMIENTOS ESTABLECIDOS."
+    },
+    {
+      "titulo": "21. ORGANIZACIÓN DOCUMENTAL",
+      "contenido": "La organización documental es el conjunto de actuaciones destinadas a conseguir que los documentos puedan localizarse, identificarse, conservarse, recuperarse y consultarse de forma eficaz.\n\nEntre sus principales actuaciones se encuentran:\n- Clasificación.\n- Ordenación.\n- Instalación.\n- Descripción.\n- Control.\n\nIDEA CLAVE: ORGANIZAR = PODER LOCALIZAR, RECUPERAR Y CONSULTAR LA DOCUMENTACIÓN."
+    },
+    {
+      "titulo": "22. CLASIFICACIÓN DOCUMENTAL",
+      "contenido": "La clasificación consiste en agrupar los documentos de acuerdo con su procedencia, funciones y estructura documental.\n\nDebe respetarse el principio de procedencia y la estructura funcional de la organización.\n\nEjemplo:\nAYUNTAMIENTO → URBANISMO → LICENCIAS → EXPEDIENTES → EXPEDIENTE CONCRETO.\n\nIDEA CLAVE: CLASIFICAR = AGRUPAR LOS DOCUMENTOS SEGÚN SU FUNCIÓN, PROCEDENCIA O SERIE."
+    },
+    {
+      "titulo": "23. CLASIFICACIÓN Y ORDENACIÓN: DIFERENCIA",
+      "contenido": "CLASIFICACIÓN: determina a qué grupo o serie documental pertenece un documento.\n\nORDENACIÓN: determina el orden en el que se colocan los documentos dentro de un grupo o serie.\n\nREGLA PARA MEMORIZAR:\nCLASIFICAR = AGRUPAR.\nORDENAR = COLOCAR."
+    },
+    {
+      "titulo": "24. CRITERIOS DE ORDENACIÓN",
+      "contenido": "Los documentos pueden ordenarse utilizando diferentes criterios:\n\n- ALFABÉTICO: por nombres, apellidos, materias, organismos, etc.\n- CRONOLÓGICO: por fechas.\n- NUMÉRICO: por números de expediente, registro, etc.\n- GEOGRÁFICO: por lugares, municipios, provincias, etc.\n- ALFANUMÉRICO: combinación de letras y números.\n- MIXTO: combinación de varios criterios.\n\nIDEA CLAVE: ALFABÉTICO + CRONOLÓGICO + NUMÉRICO + GEOGRÁFICO + ALFANUMÉRICO + MIXTO."
+    },
+    {
+      "titulo": "25. INSTALACIÓN DOCUMENTAL",
+      "contenido": "Una vez clasificada y ordenada la documentación, debe instalarse correctamente para garantizar su conservación y localización.\n\nLa instalación puede realizarse mediante:\n- Carpetas.\n- Cajas de archivo.\n- Archivadores.\n- Estanterías.\n- Mobiliario específico.\n- Sistemas electrónicos de almacenamiento.\n\nLa instalación debe garantizar:\n- Identificación clara.\n- Fácil localización.\n- Protección de los documentos.\n- Seguridad.\n- Conservación.\n- Aprovechamiento eficiente del espacio."
+    },
+    {
+      "titulo": "26. ORGANIZACIÓN DE UN ARCHIVO DE OFICINA",
+      "contenido": "La organización del archivo de oficina es una tarea esencial para garantizar una gestión administrativa eficaz.\n\nPasos principales:\n\n1. IDENTIFICAR la documentación existente.\n2. SEPARAR los documentos según correspondan a expedientes, documentación de apoyo, documentos de tramitación, copias o documentación pendiente.\n3. CLASIFICAR la documentación.\n4. ORDENAR los documentos.\n5. INSTALAR la documentación física o electrónica.\n6. IDENTIFICAR Y ETIQUETAR carpetas, cajas, expedientes o espacios.\n7. CONTROLAR la documentación: qué existe, dónde está, quién la tiene, cuándo se presta y cuándo debe devolverse.\n8. TRANSFERIR la documentación cuando finalice el período de permanencia establecido.\n\nREGLA PARA MEMORIZAR:\nIDENTIFICAR → SEPARAR → CLASIFICAR → ORDENAR → INSTALAR → IDENTIFICAR → CONTROLAR → TRANSFERIR."
+    },
+    {
+      "titulo": "27. DOCUMENTACIÓN DE APOYO",
+      "contenido": "No toda la documentación que existe en una oficina forma parte del archivo.\n\nLa documentación de apoyo puede estar formada por:\n- Copias informativas.\n- Publicaciones.\n- Folletos.\n- Manuales.\n- Documentación auxiliar.\n- Información de referencia.\n\nDebe distinguirse de la documentación que forma parte de expedientes o series documentales.\n\nEl Real Decreto 1708/2011 contempla la eliminación de documentación de apoyo informativo antes de su transferencia al archivo central, de acuerdo con las reglas aplicables.\n\nIDEA CLAVE: DOCUMENTACIÓN DE APOYO ≠ DOCUMENTACIÓN PROPIA DEL EXPEDIENTE."
+    },
+    {
+      "titulo": "28. TRANSFERENCIA DOCUMENTAL",
+      "contenido": "La transferencia es el traslado controlado de documentación de un archivo a otro de acuerdo con el ciclo de vida de los documentos y las normas establecidas.\n\nEjemplo:\nARCHIVO DE OFICINA → ARCHIVO CENTRAL.\n\nEn una transferencia debe garantizarse:\n- Integridad de los documentos.\n- Correcta identificación.\n- Registro de la documentación transferida.\n- Conservación.\n- Posibilidad de recuperación posterior.\n\nIMPORTANTE: TRANSFERENCIA NO ES ELIMINACIÓN.\n\nTRANSFERENCIA = cambio de archivo o custodia.\nELIMINACIÓN = destrucción legalmente autorizada de documentos."
+    },
+    {
+      "titulo": "29. DESCRIPCIÓN DOCUMENTAL",
+      "contenido": "La descripción documental facilita conocer qué documentos existen, cuál es su contenido, quién los ha producido, a qué período corresponden y dónde se encuentran.\n\nPuede realizarse mediante:\n- Inventarios.\n- Catálogos.\n- Índices.\n- Bases de datos.\n- Otros instrumentos de descripción.\n\nIDEA CLAVE: DESCRIBIR = FACILITAR LA LOCALIZACIÓN Y CONOCIMIENTO DE LOS DOCUMENTOS."
+    },
+    {
+      "titulo": "30. CONSERVACIÓN DOCUMENTAL",
+      "contenido": "La conservación tiene como finalidad evitar el deterioro, pérdida, destrucción o alteración de los documentos y garantizar su permanencia durante el período establecido.\n\nPrincipales riesgos:\n\nRIESGOS FÍSICOS:\n- Humedad.\n- Temperatura inadecuada.\n- Exceso de luz.\n- Polvo.\n\nRIESGOS BIOLÓGICOS:\n- Insectos.\n- Hongos.\n- Microorganismos.\n\nRIESGOS HUMANOS:\n- Manipulación incorrecta.\n- Pérdida.\n- Destrucción.\n- Uso indebido.\n\nRIESGOS ACCIDENTALES:\n- Incendios.\n- Inundaciones.\n- Averías.\n- Otros desastres."
+    },
+    {
+      "titulo": "31. MEDIDAS DE CONSERVACIÓN",
+      "contenido": "Entre las principales medidas de conservación se encuentran:\n\n- Mantener condiciones ambientales adecuadas.\n- Evitar la humedad excesiva.\n- Proteger los documentos de la luz directa o excesiva.\n- Mantener limpio el espacio de archivo.\n- Utilizar mobiliario adecuado.\n- Realizar control de plagas.\n- Evitar sobrecargar las estanterías.\n- Manipular correctamente los documentos.\n- Proteger adecuadamente los documentos electrónicos.\n- Establecer medidas frente a posibles emergencias o desastres."
+    },
+    {
+      "titulo": "32. SEGURIDAD DE LA DOCUMENTACIÓN",
+      "contenido": "La seguridad documental comprende las medidas destinadas a proteger los documentos y la información que contienen.\n\nIncluye:\n- Seguridad física.\n- Seguridad de la información.\n- Control de acceso.\n- Prevención de pérdidas.\n- Protección frente a daños.\n- Trazabilidad cuando resulte necesaria.\n\nNo todas las personas pueden acceder libremente a todos los documentos administrativos. Pueden existir limitaciones derivadas de:\n- Protección de datos personales.\n- Seguridad.\n- Derechos de terceros.\n- Conservación.\n- Secretos o deberes de confidencialidad establecidos legalmente.\n\nIDEA CLAVE: ARCHIVO NO SIGNIFICA ACCESO ILIMITADO."
+    },
+    {
+      "titulo": "33. ACCESO A LOS DOCUMENTOS",
+      "contenido": "El acceso a los documentos de archivo debe realizarse de acuerdo con la normativa aplicable.\n\nDebe distinguirse entre:\n- Documentación accesible.\n- Documentación con acceso restringido.\n- Documentación que contiene datos personales.\n- Documentación sometida a otras limitaciones legales.\n\nEl hecho de que un documento esté depositado en un archivo no significa que cualquier persona pueda acceder libremente a él.\n\nIDEA CLAVE: ARCHIVO ≠ ACCESO ILIMITADO."
+    },
+    {
+      "titulo": "34. CUSTODIA DOCUMENTAL",
+      "contenido": "La custodia consiste en mantener los documentos bajo un control y protección adecuados.\n\nSus objetivos son:\n- Evitar la pérdida.\n- Evitar el deterioro.\n- Controlar el acceso.\n- Garantizar la conservación.\n- Mantener la integridad de los documentos.\n\nIDEA CLAVE: CUSTODIA = PROTEGER + CONTROLAR."
+    },
+    {
+      "titulo": "35. SERVICIOS DEL ARCHIVO",
+      "contenido": "Entre los principales servicios que puede prestar un archivo se encuentran:\n\n1. CONSULTA: facilitar la consulta de los documentos autorizados.\n2. INFORMACIÓN: proporcionar información sobre fondos, series, expedientes y localización.\n3. PRÉSTAMO: facilitar temporalmente documentación a unidades autorizadas.\n4. REPRODUCCIÓN: realizar copias cuando sea posible y legalmente proceda.\n5. APOYO A LA GESTIÓN ADMINISTRATIVA.\n6. DIFUSIÓN: dar a conocer el patrimonio documental.\n7. INVESTIGACIÓN: facilitar el acceso a investigadores cuando corresponda.\n\nREGLA PARA MEMORIZAR:\nCONSULTA + INFORMACIÓN + PRÉSTAMO + REPRODUCCIÓN + GESTIÓN + DIFUSIÓN + INVESTIGACIÓN."
+    },
+    {
+      "titulo": "36. PRÉSTAMO DE DOCUMENTOS",
+      "contenido": "Cuando un documento sale temporalmente del archivo debe existir un control adecuado.\n\nDebe conocerse:\n- Qué documento se presta.\n- A quién se presta.\n- Cuándo se presta.\n- Para qué se presta.\n- Cuándo debe devolverse.\n\nNunca debe extraerse documentación del archivo sin el correspondiente control y autorización.\n\nIDEA CLAVE: PRÉSTAMO = CONTROL DE SALIDA + CONTROL DE DEVOLUCIÓN."
+    },
+    {
+      "titulo": "37. PERSONAL SUBALTERNO Y ARCHIVO",
+      "contenido": "El personal subalterno puede colaborar en diferentes tareas relacionadas con el archivo, siempre siguiendo las instrucciones y normas establecidas.\n\nPuede participar en:\n- Movimiento de documentos.\n- Colocación de documentación.\n- Clasificación material cuando sea indicada.\n- Preparación de documentos.\n- Localización física de documentación.\n- Entrega y recogida controlada de documentos.\n- Reproducción y escaneado.\n- Apoyo a la organización del archivo.\n- Custodia material.\n- Transferencias internas de documentación.\n\nEl personal subalterno debe:\n- Seguir las instrucciones archivísticas.\n- Respetar las normas de seguridad.\n- Mantener el orden de los documentos.\n- Controlar la documentación que recibe o entrega.\n- Respetar la confidencialidad.\n\nNO DEBE:\n- Destruir documentos por decisión propia.\n- Retirar documentos sin autorización.\n- Alterar expedientes.\n- Cambiar arbitrariamente el orden de la documentación.\n- Entregar documentación a personas no autorizadas.\n\nIDEA CLAVE: PERSONAL SUBALTERNO = APOYO + CUSTODIA + CUMPLIMIENTO DE INSTRUCCIONES."
+    },
+    {
+      "titulo": "38. ARCHIVO Y PROTECCIÓN DE DATOS",
+      "contenido": "Los archivos administrativos pueden contener documentos con datos personales.\n\nPor ello deben adoptarse medidas para:\n- Evitar accesos no autorizados.\n- Limitar la difusión de información.\n- Proteger físicamente los documentos.\n- Respetar los derechos de las personas.\n- Cumplir las normas aplicables sobre protección de datos.\n\nIDEA CLAVE: LA DOCUMENTACIÓN CON DATOS PERSONALES REQUIERE UNA PROTECCIÓN ADECUADA."
+    },
+    {
+      "titulo": "39. ARCHIVO ELECTRÓNICO Y ADMINISTRACIÓN ELECTRÓNICA",
+      "contenido": "La gestión documental actual comprende tanto documentos en papel como documentos electrónicos.\n\nLos sistemas de archivo electrónico deben permitir gestionar aspectos como:\n- Identificación.\n- Metadatos.\n- Autenticidad.\n- Integridad.\n- Conservación.\n- Acceso.\n- Trazabilidad.\n- Contexto documental.\n\nLa Ley 7/2011 contempla la incorporación de las nuevas tecnologías de la información y la comunicación a la gestión documental del Sistema Archivístico de Andalucía.\n\nIDEA CLAVE: EL ARCHIVO ELECTRÓNICO DEBE GARANTIZAR LA IDENTIFICACIÓN, INTEGRIDAD, AUTENTICIDAD, CONSERVACIÓN Y ACCESO DE LOS DOCUMENTOS."
+    },
+    {
+      "titulo": "40. METADATOS",
+      "contenido": "Los metadatos son datos que proporcionan información sobre otros datos o documentos.\n\nPueden aportar información sobre:\n- Autor.\n- Fecha.\n- Origen.\n- Identificación.\n- Versión.\n- Relación con un expediente.\n- Características técnicas.\n\nLa Ley 7/2011 relaciona los sistemas de información con la generación de los metadatos necesarios para la gestión archivística.\n\nIDEA CLAVE: METADATOS = DATOS SOBRE LOS DOCUMENTOS."
+    },
+    {
+      "titulo": "41. CUADRO DE CLASIFICACIÓN",
+      "contenido": "El cuadro de clasificación es un instrumento que estructura y organiza los grupos documentales, normalmente de acuerdo con las funciones y actividades de una institución.\n\nPermite organizar y localizar la documentación.\n\nEjemplo:\nAYUNTAMIENTO\n→ PERSONAL\n→ CONTRATACIÓN\n→ URBANISMO\n→ HACIENDA\n→ SERVICIOS SOCIALES\n→ CULTURA\n\nDentro de cada área pueden existir diferentes series documentales.\n\nIDEA CLAVE: CUADRO DE CLASIFICACIÓN = ESTRUCTURA DE LOS GRUPOS DOCUMENTALES."
+    },
+    {
+      "titulo": "42. CALENDARIO DE CONSERVACIÓN",
+      "contenido": "El calendario de conservación es un instrumento que establece los períodos durante los cuales deben conservarse las distintas series documentales y el destino que tendrán posteriormente.\n\nPuede determinar:\n- Cuánto tiempo deben conservarse.\n- Cuándo deben transferirse.\n- Si deben eliminarse cuando legalmente proceda.\n- Si deben conservarse permanentemente.\n\nIDEA CLAVE: CALENDARIO DE CONSERVACIÓN = CUÁNTO TIEMPO + QUÉ DESTINO."
+    },
+    {
+      "titulo": "43. VALORACIÓN, TRANSFERENCIA, ELIMINACIÓN, CONSERVACIÓN Y CUSTODIA",
+      "contenido": "VALORACIÓN: determina el valor de los documentos y su destino.\n\nTRANSFERENCIA: traslado de documentos de un archivo a otro.\n\nELIMINACIÓN: destrucción de documentos cuando está legalmente autorizada.\n\nCONSERVACIÓN: mantenimiento de los documentos durante el período establecido o de forma permanente.\n\nCUSTODIA: protección y control de los documentos.\n\nREGLA PARA MEMORIZAR:\nVALORAR = DECIDIR SU VALOR Y DESTINO.\nTRANSFERIR = CAMBIAR DE ARCHIVO.\nELIMINAR = DESTRUIR LEGALMENTE.\nCONSERVAR = MANTENER.\nCUSTODIAR = PROTEGER Y CONTROLAR."
+    },
+    {
+      "titulo": "44. ESQUEMA GENERAL DEL TEMA",
+      "contenido": "ESTRUCTURA DOCUMENTAL:\nDOCUMENTO ↓ EXPEDIENTE ↓ SERIE DOCUMENTAL ↓ FONDO DOCUMENTAL ↓ ARCHIVO\n\nCICLO DE VIDA:\nOFICINA ↓ CENTRAL ↓ INTERMEDIO ↓ HISTÓRICO\n\nGESTIÓN DOCUMENTAL:\nIDENTIFICACIÓN ↓ VALORACIÓN ↓ ORGANIZACIÓN ↓ DESCRIPCIÓN ↓ CONSERVACIÓN ↓ CUSTODIA ↓ ACCESO ↓ SERVICIO\n\nORGANIZACIÓN:\nCLASIFICAR → ORDENAR → INSTALAR → DESCRIBIR → CONTROLAR."
+    },
+    {
+      "titulo": "45. RESUMEN DEL TEMA",
+      "contenido": "El archivo es el conjunto orgánico de documentos y también la institución o unidad encargada de reunirlos, organizarlos, conservarlos, custodiarlos y facilitar su acceso.\n\nEl documento es el testimonio de una actividad o función. Los documentos pueden formar expedientes; los expedientes y documentos pueden integrarse en series documentales; y las series forman parte de fondos documentales.\n\nLos principales tipos de archivo según el ciclo de vida son: archivo de oficina o gestión, archivo central, archivo intermedio y archivo histórico.\n\nLa gestión documental comprende ocho funciones fundamentales: identificación, valoración, organización, descripción, conservación, custodia, acceso y servicio.\n\nLa organización documental exige clasificar, ordenar, instalar, describir y controlar los documentos.\n\nEn el archivo de oficina es especialmente importante mantener la documentación organizada, localizada, protegida y controlada, realizando las transferencias cuando corresponda.\n\nLa conservación exige prevenir riesgos físicos, biológicos, humanos y accidentales.\n\nEl acceso a la documentación está sometido a la normativa aplicable y puede estar limitado por la protección de datos, la seguridad, los derechos de terceros y otras causas legales.\n\nEl personal subalterno puede colaborar en las tareas materiales de archivo, siempre siguiendo las instrucciones establecidas y respetando la custodia, seguridad y confidencialidad de la documentación."
+    },
+    {
+      "titulo": "46. 20 CONCEPTOS QUE DEBES SABER PARA EL TEST",
+      "contenido": "1. Concepto de archivo.\n2. Concepto de documento.\n3. Diferencia entre documento y expediente.\n4. Concepto de serie documental.\n5. Concepto de fondo documental.\n6. Diferencia entre documento, expediente, serie y fondo.\n7. Tipos de archivos.\n8. Archivo de oficina o gestión.\n9. Archivo central.\n10. Archivo intermedio.\n11. Archivo histórico.\n12. Ciclo vital de los documentos.\n13. Concepto de gestión documental.\n14. Las 8 funciones de la gestión documental.\n15. Identificación y valoración documental.\n16. Clasificación y ordenación.\n17. Diferencia entre clasificación y ordenación.\n18. Transferencia documental.\n19. Conservación y custodia.\n20. Servicios del archivo y funciones del personal subalterno."
+    },
+    {
+      "titulo": "47. TABLA DE MEMORIZACIÓN RÁPIDA",
+      "contenido": "ARCHIVO = DOCUMENTOS + ORGANIZACIÓN + CONSERVACIÓN + ACCESO.\n\nDOCUMENTO = TESTIMONIO DE UNA ACTIVIDAD O FUNCIÓN.\n\nDOCUMENTO → EXPEDIENTE → SERIE → FONDO → ARCHIVO.\n\nOFICINA → CENTRAL → INTERMEDIO → HISTÓRICO.\n\nACTIVA → SEMIACTIVA → HISTÓRICA.\n\nGESTIÓN DOCUMENTAL:\nIDENTIFICACIÓN → VALORACIÓN → ORGANIZACIÓN → DESCRIPCIÓN → CONSERVACIÓN → CUSTODIA → ACCESO → SERVICIO.\n\nCLASIFICAR = AGRUPAR.\nORDENAR = COLOCAR.\n\nTRANSFERIR = CAMBIAR DE ARCHIVO.\nELIMINAR = DESTRUIR LEGALMENTE.\nCONSERVAR = MANTENER.\nCUSTODIAR = PROTEGER Y CONTROLAR.\n\nMETADATOS = DATOS SOBRE LOS DOCUMENTOS.\n\nARCHIVO ≠ ACCESO ILIMITADO.\n\nPERSONAL SUBALTERNO = APOYO + CUSTODIA + CUMPLIMIENTO DE INSTRUCCIONES."
+    },
+    {
+      "titulo": "48. LO MÁS IMPORTANTE PARA EL TEST",
+      "contenido": "Debes tener especialmente claros los siguientes puntos:\n\n- El archivo tiene un doble significado: conjunto documental e institución o unidad encargada de su gestión.\n- El documento de archivo es testimonio de una actividad o función.\n- Un expediente es un conjunto ordenado de documentos y actuaciones relacionados con un asunto.\n- Una serie documental reúne documentos o expedientes producidos por una misma función o actividad.\n- Un fondo documental es el conjunto orgánico producido o recibido por una persona u organismo.\n- Los archivos principales según el ciclo de vida son oficina, central, intermedio e histórico.\n- La gestión documental tiene ocho funciones: identificación, valoración, organización, descripción, conservación, custodia, acceso y servicio.\n- Clasificar significa agrupar; ordenar significa colocar en un determinado orden.\n- La transferencia no equivale a la eliminación.\n- La eliminación documental debe estar autorizada y regulada.\n- La conservación protege los documentos frente a riesgos físicos, biológicos, humanos y accidentales.\n- La custodia implica proteger y controlar la documentación.\n- El acceso puede estar limitado legalmente.\n- El préstamo de documentos debe estar controlado.\n- El personal subalterno no debe destruir, retirar, alterar ni entregar documentación por iniciativa propia.\n- Los documentos electrónicos también deben garantizar autenticidad, integridad, disponibilidad, conservación y seguridad.\n- Los metadatos son datos sobre los documentos.\n- El cuadro de clasificación estructura los grupos documentales.\n- El calendario de conservación establece los plazos y destino de las series documentales."
+    }
+  ]
+}

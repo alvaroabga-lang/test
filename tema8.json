@@ -1,0 +1,158 @@
+{
+  "titulo": "Tema 8. Conceptos elementales de aritmética y práctica de operaciones de cálculo. Recomendaciones en el uso del lenguaje administrativo relativas a ortografía: Abreviaturas, acentuación, mayúsculas, siglas, puntuación",
+  "contenido": "EPÍGRAFE OFICIAL: Conceptos elementales de aritmética y práctica de operaciones de cálculo. Recomendaciones en el uso del lenguaje administrativo relativas a ortografía: Abreviaturas, acentuación, mayúsculas, siglas, puntuación.\n\nEste es el contenido oficial de la Materia Específica 5 del programa de Subalterno/a del Ayuntamiento de Cádiz.",
+  "apartados": [
+    {
+      "titulo": "1. CONCEPTOS ELEMENTALES DE ARITMÉTICA ⭐⭐⭐",
+      "contenido": "La aritmética es la parte de las matemáticas que estudia los números y las operaciones elementales. Para el examen interesa especialmente saber realizar correctamente los cálculos habituales.\n\n1.1. Los números\n\n• Números naturales (N) ⭐⭐⭐: 0, 1, 2, 3, ... Se utilizan para contar. Ejemplos: 8 expedientes, 25 personas, 100 documentos.\n• Números enteros (Z) ⭐⭐: ..., -3, -2, -1, 0, 1, 2, 3, ... Incluyen números positivos, el cero y números negativos. Ejemplos: temperatura de -2 ºC, saldo de -50 €.\n• Números decimales ⭐⭐⭐: están formados por una parte entera y una parte decimal. Ejemplos: 4,5; 12,75; 0,25. En español se utiliza normalmente la coma como separador decimal. Ejemplo: 12,50 €."
+    },
+    {
+      "titulo": "2. LAS CUATRO OPERACIONES BÁSICAS ⭐⭐⭐",
+      "contenido": "2.1. Suma\n\nConsiste en reunir varias cantidades.\nEjemplo: 25 + 17 = 42.\nLos números que se suman se llaman sumandos y el resultado se denomina suma.\n\nPropiedades:\n• Conmutativa: a + b = b + a. Ejemplo: 4 + 7 = 7 + 4.\n• Asociativa: (a + b) + c = a + (b + c). Ejemplo: (2 + 3) + 4 = 2 + (3 + 4).\n• Elemento neutro: a + 0 = a.\n\n2.2. Resta ⭐⭐⭐\n\nConsiste en quitar una cantidad o calcular la diferencia entre dos cantidades.\nEjemplo: 50 - 18 = 32.\n• Minuendo: cantidad inicial.\n• Sustraendo: cantidad que se resta.\n• Diferencia: resultado.\nEn 50 - 18 = 32: 50 es el minuendo, 18 es el sustraendo y 32 es la diferencia.\nLa resta no es conmutativa: 50 - 20 ≠ 20 - 50.\n\n2.3. Multiplicación ⭐⭐⭐\n\nEs una suma repetida de una misma cantidad.\nEjemplo: 5 × 4 = 20, equivalente a 4 + 4 + 4 + 4 + 4 = 20.\nLos números que se multiplican se denominan factores y el resultado es el producto.\n\nPropiedades:\n• Conmutativa: a × b = b × a.\n• Asociativa: (a × b) × c = a × (b × c).\n• Elemento neutro: a × 1 = a.\n• Elemento absorbente: a × 0 = 0.\n\n2.4. División ⭐⭐⭐\n\nConsiste en repartir una cantidad en partes iguales o determinar cuántas veces contiene una cantidad a otra.\nEjemplo: 20 ÷ 5 = 4.\n• Dividendo: cantidad que se divide.\n• Divisor: cantidad entre la que se divide.\n• Cociente: resultado de la división.\n• Resto: cantidad que queda después de dividir.\n\nEjemplo: 23 ÷ 5 = 4, resto 3, porque 23 = (5 × 4) + 3.\nEn una división exacta el resto es 0.\nEl divisor nunca puede ser 0."
+    },
+    {
+      "titulo": "3. JERARQUÍA DE LAS OPERACIONES ⭐⭐⭐",
+      "contenido": "El orden correcto para realizar operaciones combinadas es:\n\n1. Paréntesis.\n2. Multiplicaciones y divisiones.\n3. Sumas y restas.\n\nLas operaciones que tienen el mismo nivel de prioridad se realizan de izquierda a derecha.\n\nEjemplo: 8 + 3 × 4.\nPrimero se realiza la multiplicación: 3 × 4 = 12.\nDespués: 8 + 12 = 20.\nNo se realiza primero 8 + 3.\n\nEjemplo: (8 + 3) × 4 = 11 × 4 = 44.\n\nRegla para memorizar: PARÉNTESIS → MULTIPLICAR/DIVIDIR → SUMAR/RESTAR."
+    },
+    {
+      "titulo": "4. FRACCIONES ⭐⭐⭐",
+      "contenido": "Una fracción representa una parte de un todo.\n\nEn 3/5:\n• 3 es el numerador.\n• 5 es el denominador.\n\nEl denominador indica el número de partes iguales en que se divide el todo y el numerador indica las partes que se toman.\n\nLas fracciones equivalentes representan la misma cantidad. Ejemplo: 1/2 = 2/4 = 3/6. Se obtienen multiplicando o dividiendo el numerador y el denominador por un mismo número distinto de cero.\n\n4.1. Suma y resta\n\nSi tienen el mismo denominador, se suman o restan los numeradores y se conserva el denominador.\nEjemplo: 2/7 + 3/7 = 5/7.\n\nSi tienen distinto denominador, se busca un denominador común.\nEjemplo: 1/2 + 1/3 = 3/6 + 2/6 = 5/6.\n\n4.2. Multiplicación\n\nSe multiplican los numeradores entre sí y los denominadores entre sí.\nEjemplo: 2/3 × 4/5 = 8/15.\n\n4.3. División\n\nSe multiplica la primera fracción por la inversa de la segunda.\nEjemplo: 2/3 ÷ 4/5 = 2/3 × 5/4 = 10/12 = 5/6."
+    },
+    {
+      "titulo": "5. NÚMEROS DECIMALES ⭐⭐⭐",
+      "contenido": "Un número decimal puede tener una parte entera y una parte decimal.\n\nEjemplo: 25,37.\n• 25 es la parte entera.\n• 37 es la parte decimal.\n\nDespués de la coma aparecen las décimas, centésimas, milésimas, etc.\n• 0,5 = cinco décimas.\n• 0,25 = veinticinco centésimas.\n• 0,125 = ciento veinticinco milésimas.\n\n5.1. Suma y resta de decimales\n\nSe deben alinear las comas decimales.\nEjemplo: 12,50 + 3,25 = 15,75.\n\n5.2. Multiplicación de decimales\n\nSe multiplican como si fueran números enteros y posteriormente se coloca la coma teniendo en cuenta el número total de cifras decimales.\nEjemplo: 2,5 × 0,4 = 1.\n\n5.3. División de decimales\n\nPuede desplazarse la coma para convertir el divisor en un número entero.\nEjemplo: 7,5 ÷ 2,5 = 3."
+    },
+    {
+      "titulo": "6. PORCENTAJES ⭐⭐⭐",
+      "contenido": "Un porcentaje representa una cantidad de cada 100.\n\n1 % = 1/100 = 0,01.\n\nFórmula: x % de una cantidad = cantidad × x / 100.\n\nEjemplo: 20 % de 150 = 150 × 20 / 100 = 30.\n\n6.1. Aumentos\n\nCantidad final = cantidad inicial + aumento.\n\nEjemplo: 200 € + 10 %.\n10 % de 200 € = 20 €.\nCantidad final = 220 €.\n\nTambién puede calcularse directamente: 200 × 1,10 = 220 €.\n\n6.2. Disminuciones\n\nEjemplo: 200 € - 10 % = 180 €.\nTambién puede calcularse: 200 × 0,90 = 180 €.\n\nImportante: aumentar un 20 % y después disminuir un 20 % no devuelve la cantidad inicial.\nEjemplo: 100 → 120 → 96."
+    },
+    {
+      "titulo": "7. PROPORCIONALIDAD Y REGLA DE TRES ⭐⭐⭐",
+      "contenido": "7.1. Proporcionalidad directa\n\nExiste cuando una cantidad aumenta y la otra aumenta en la misma proporción, y viceversa.\nEjemplo: 2 bolígrafos cuestan 4 €; 4 bolígrafos cuestan 8 €.\n\n7.2. Regla de tres directa\n\nEjemplo:\n3 documentos → 6 minutos\n5 documentos → x minutos\n\nx = 5 × 6 / 3 = 10 minutos.\n\n7.3. Proporcionalidad inversa\n\nExiste cuando una cantidad aumenta y la otra disminuye proporcionalmente.\nEjemplo: 2 trabajadores realizan un trabajo en 12 horas; si aumentamos el número de trabajadores, el tiempo necesario será menor, manteniéndose las mismas condiciones.\n\nEn la proporcionalidad inversa el producto de las dos magnitudes permanece constante."
+    },
+    {
+      "titulo": "8. SISTEMA MÉTRICO DECIMAL ⭐⭐⭐",
+      "contenido": "8.1. Longitud\n\nUnidad principal: metro (m).\nEscala: km → hm → dam → m → dm → cm → mm.\nCada paso hacia la derecha supone multiplicar por 10 y cada paso hacia la izquierda dividir entre 10.\n\nEjemplos:\n1 m = 100 cm.\n2,5 m = 250 cm.\n\n8.2. Masa\n\nUnidad principal: gramo (g).\nEscala: kg → hg → dag → g → dg → cg → mg.\n\n1 kg = 1000 g.\n\n8.3. Capacidad\n\nUnidad principal: litro (L).\nEscala: kL → hL → daL → L → dL → cL → mL.\n\n1 L = 1000 mL.\n\n8.4. Superficie ⭐⭐\n\nEscala: km² → hm² → dam² → m² → dm² → cm² → mm².\nCada paso supone multiplicar por 100 hacia la derecha o dividir entre 100 hacia la izquierda, no por 10.\n\n1 m² = 10.000 cm²."
+    },
+    {
+      "titulo": "9. UNIDADES DE TIEMPO ⭐⭐⭐",
+      "contenido": "1 minuto = 60 segundos.\n1 hora = 60 minutos.\n1 día = 24 horas.\n\nEjemplos:\n2 horas = 120 minutos.\n2 horas y 30 minutos = 150 minutos.\n\n2,5 horas = 2 horas y 30 minutos, porque 0,5 horas = 30 minutos."
+    },
+    {
+      "titulo": "10. RESOLUCIÓN DE PROBLEMAS ⭐⭐⭐",
+      "contenido": "Para resolver correctamente un problema se recomienda seguir estos pasos:\n\n1. Leer atentamente el problema.\n2. Identificar los datos.\n3. Determinar qué se pregunta.\n4. Elegir la operación adecuada.\n5. Realizar el cálculo.\n6. Comprobar que el resultado tiene sentido.\n7. Expresar el resultado con su unidad correspondiente.\n\nEjemplo: si por la mañana se reciben 125 documentos y por la tarde 87 documentos:\n125 + 87 = 212 documentos."
+    },
+    {
+      "titulo": "11. EL LENGUAJE ADMINISTRATIVO ⭐⭐⭐",
+      "contenido": "El lenguaje administrativo debe ser claro, preciso, correcto, comprensible, ordenado y conciso, evitando información innecesaria.\n\nDebe evitarse:\n• La ambigüedad.\n• Las frases innecesariamente complicadas.\n• El exceso de abreviaturas.\n• El abuso de las mayúsculas.\n• La puntuación incorrecta.\n• Las expresiones oscuras o innecesariamente técnicas.\n\nIdea clave: una buena redacción administrativa debe facilitar la comprensión por parte de la ciudadanía."
+    },
+    {
+      "titulo": "12. ABREVIATURAS ⭐⭐⭐",
+      "contenido": "Una abreviatura es la representación gráfica reducida de una palabra o grupo de palabras.\n\nEjemplos:\n• pág. = página.\n• págs. = páginas.\n• núm. = número.\n• núms. = números.\n• Sr. = señor.\n• Sra. = señora.\n• etc. = etcétera.\n• art. = artículo.\n• arts. = artículos.\n\n12.1. El punto\n\nLas abreviaturas tradicionales suelen llevar punto: pág., núm., art., etc.\nNo debe confundirse una abreviatura con un símbolo.\n\n12.2. Plural\n\nLas abreviaturas pueden formar el plural de diferentes maneras según su formación:\n• pág. → págs.\n• núm. → núms.\n• art. → arts.\n• cap. → caps.\n• Sr. → Sres.\n• Dr. → Dres.\n\nLas abreviaturas de letras iniciales pueden duplicar las letras:\n• p. → pp.\n• c. → cc.\n• pág. → págs., no *págg.\n\n12.3. Tilde\n\nLas abreviaturas conservan la tilde cuando incluyen la vocal correspondiente a la sílaba tónica.\nEjemplos:\n• núm. ← número.\n• C.ía ← compañía."
+    },
+    {
+      "titulo": "13. SIGLAS ⭐⭐⭐",
+      "contenido": "Las siglas se forman generalmente a partir de las iniciales de las palabras significativas de una expresión compleja.\n\nEjemplos: DNI, ONG, ONU.\n\nSe escriben normalmente en mayúsculas y, por regla general, sin puntos ni espacios.\nEjemplo: DNI, no D.N.I.\n\n13.1. Plural\n\nLas siglas escritas en mayúsculas normalmente son invariables en plural.\nEjemplo: las ONG, no las ONGs.\nEl plural se expresa mediante el artículo u otros determinantes.\n\n13.2. Acentos\n\nLas siglas escritas enteramente en mayúsculas no llevan tilde gráfica.\nEjemplos: DNI, CIA, OCDE.\nEsto las diferencia de palabras normales escritas en mayúsculas, que sí pueden llevar tilde."
+    },
+    {
+      "titulo": "14. ACRÓNIMOS ⭐⭐",
+      "contenido": "El término acrónimo puede referirse a formas creadas a partir de elementos de varias palabras y también a determinadas siglas que se leen como palabras.\n\nAlgunos acrónimos se lexicalizan y pasan a funcionar como palabras normales.\n\nEjemplos:\n• láser.\n• ovni.\n• pyme.\n\nLos acrónimos lexicalizados escritos en minúscula siguen las reglas generales de acentuación y formación del plural.\nEjemplos:\n• ovni → ovnis.\n• láser → láseres.\n\nDiferencias:\n• ABREVIATURA: acorta una palabra y normalmente lleva punto.\n• SIGLA: generalmente está formada por iniciales y no lleva puntos.\n• ACRÓNIMO: forma abreviada que puede funcionar como una palabra.\n• SÍMBOLO: representación convencional, especialmente científica o técnica, normalmente sin punto y de forma invariable."
+    },
+    {
+      "titulo": "15. SÍMBOLOS ⭐⭐",
+      "contenido": "Los símbolos son representaciones convencionales, especialmente de unidades científicas o técnicas.\n\nEjemplos:\n• m = metro.\n• kg = kilogramo.\n• km = kilómetro.\n• L = litro.\n• h = hora.\n\nReglas:\n• No llevan punto.\n• Son invariables.\n• No llevan tilde.\n\nEjemplo: 5 kg, no 5 kgs.\n\nLa RAE distingue los símbolos de las abreviaturas."
+    },
+    {
+      "titulo": "16. ACENTUACIÓN ⭐⭐⭐",
+      "contenido": "La tilde es el signo gráfico que se coloca sobre una vocal en determinadas palabras. No todas las palabras llevan tilde.\n\n16.1. Palabras agudas\n\nLa sílaba tónica es la última. Llevan tilde cuando terminan en vocal, n o s.\nEjemplos: café, canción, interés, sofá.\n\nNo llevan tilde: pared, reloj, verdad.\n\n16.2. Palabras llanas\n\nLa sílaba tónica es la penúltima. Llevan tilde cuando NO terminan en vocal, n o s.\nEjemplos: árbol, lápiz, fácil, césped.\n\nNo llevan tilde: mesa, examen, joven.\n\n16.3. Palabras esdrújulas\n\nLa sílaba tónica es la antepenúltima. Siempre llevan tilde.\nEjemplos: teléfono, administración, público, número, máquina.\n\n16.4. Palabras sobresdrújulas\n\nLa sílaba tónica aparece antes de la antepenúltima. Generalmente llevan tilde.\nEjemplos: dígamelo, explíqueselo, cómetelo."
+    },
+    {
+      "titulo": "17. DIPTONGOS E HIATOS ⭐⭐",
+      "contenido": "Diptongo: dos vocales que forman parte de la misma sílaba.\nEjemplos: aire, ciudad, cuidado.\n\nHiato: dos vocales que pertenecen a sílabas diferentes.\nEjemplos: país, María, río, día.\n\nImportante: cuando una vocal cerrada tónica (í, ú) aparece junto a una vocal abierta, se forma un hiato y la vocal cerrada lleva tilde aunque las reglas generales no la exigirían.\n\nEjemplos: país, raíz, María, río, continúa."
+    },
+    {
+      "titulo": "18. INTERROGATIVOS Y EXCLAMATIVOS ⭐⭐⭐",
+      "contenido": "Llevan tilde cuando tienen valor interrogativo o exclamativo:\nqué, cuál, cuáles, quién, quiénes, cómo, cuándo, cuánto, dónde, adónde.\n\nEjemplos:\n• ¿Qué documento necesita?\n• No sé qué documento necesita.\n• ¿Dónde está el expediente?\n• Indique dónde está el expediente.\n\nNo llevan tilde cuando no tienen valor interrogativo o exclamativo.\nEjemplo: El documento que necesita está aquí."
+    },
+    {
+      "titulo": "19. TILDE DIACRÍTICA ⭐⭐⭐",
+      "contenido": "La tilde diacrítica sirve para distinguir palabras que se escriben igual pero tienen diferente función o significado.\n\nPrincipales pares:\n• tú / tu.\n• él / el.\n• mí / mi.\n• sí / si.\n• dé / de.\n• sé / se.\n• té / te.\n• más / mas.\n\nEjemplos:\n• Tú tienes el documento. / Este es tu documento.\n• Él llegó temprano. / El expediente está en el archivo.\n• Necesito que me dé una copia. / El documento es de Juan."
+    },
+    {
+      "titulo": "20. SOLO Y LOS DEMOSTRATIVOS ⭐⭐",
+      "contenido": "La recomendación general actual de la RAE es escribir solo y los demostrativos este, ese, aquel y sus formas femeninas y plurales sin tilde, tanto si funcionan como adverbios como si funcionan como pronombres.\n\nEjemplos:\n• Solo necesito una copia.\n• Este es el documento solicitado.\n\nLa tilde puede utilizarse excepcionalmente si existe una ambigüedad real que no pueda resolverse de otro modo.\n\nRegla para el examen: SOLO Y DEMOSTRATIVOS: normalmente SIN TILDE."
+    },
+    {
+      "titulo": "21. LAS MAYÚSCULAS ⭐⭐⭐",
+      "contenido": "Las mayúsculas se utilizan en determinados contextos y no deben emplearse indiscriminadamente.\n\n21.1. Comienzo de un escrito\n\nLa primera palabra de un escrito comienza con mayúscula.\nEjemplo: Se comunica que...\n\n21.2. Después de punto\n\nNormalmente se escribe con mayúscula después de un punto.\nEjemplo: El expediente está completo. Se remitirá mañana."
+    },
+    {
+      "titulo": "22. MAYÚSCULAS Y NOMBRES PROPIOS ⭐⭐⭐",
+      "contenido": "Los nombres propios se escriben con mayúscula.\n\nEjemplos: Cádiz, España, Andalucía, Ayuntamiento de Cádiz.\n\nLos nombres comunes se escriben normalmente en minúscula.\nEjemplos: ciudad, ayuntamiento cuando se utiliza como nombre común, municipio, administración, oficina, departamento.\n\nNo debe abusarse de las mayúsculas en los textos administrativos."
+    },
+    {
+      "titulo": "23. CARGOS Y PROFESIONES ⭐⭐⭐",
+      "contenido": "Los nombres de cargos, puestos de trabajo y profesiones se escriben normalmente en minúscula, porque son nombres comunes.\n\nEjemplos:\n• el alcalde.\n• la alcaldesa.\n• el concejal.\n• la secretaria.\n• el funcionario.\n• el jefe de servicio.\n• el arquitecto.\n\nNo deben escribirse con mayúscula simplemente por tratarse de un cargo."
+    },
+    {
+      "titulo": "24. DÍAS, MESES Y ESTACIONES ⭐⭐⭐",
+      "contenido": "Los días de la semana, los meses y las estaciones del año se escriben con minúscula.\n\nEjemplos:\n• lunes.\n• martes.\n• enero.\n• febrero.\n• primavera.\n• verano.\n\nEjemplo: La reunión se celebrará el lunes 15 de enero."
+    },
+    {
+      "titulo": "25. MAYÚSCULAS CON TILDE ⭐⭐⭐",
+      "contenido": "Las letras mayúsculas también llevan tilde cuando las reglas de acentuación lo exigen.\n\nEjemplos:\n• ÁREA.\n• ADMINISTRACIÓN.\n• ATENCIÓN.\n• ÍNDICE.\n• ÓRGANO.\n\nEs incorrecto afirmar que las mayúsculas nunca llevan tilde.\n\nExcepción: las siglas escritas enteramente en mayúsculas no llevan tilde gráfica.\nEjemplos: DNI, ONU, OCDE."
+    },
+    {
+      "titulo": "26. PUNTUACIÓN ⭐⭐⭐",
+      "contenido": "Los principales signos de puntuación son:\n• Punto: .\n• Coma: ,\n• Punto y coma: ;\n• Dos puntos: :\n• Puntos suspensivos: ...\n• Signos de interrogación: ¿ ?\n• Signos de exclamación: ¡ !\n• Paréntesis: ( )\n• Comillas: « »\n• Raya: —\n• Guion: -"
+    },
+    {
+      "titulo": "27. EL PUNTO ⭐⭐⭐",
+      "contenido": "El punto se utiliza para cerrar enunciados y oraciones.\n\nTambién aparece en determinadas abreviaturas.\nEjemplo: pág.\n\nLos títulos y encabezamientos que aparecen aislados normalmente no llevan punto final.\nEjemplo: TEMA 8."
+    },
+    {
+      "titulo": "28. LA COMA ⭐⭐⭐",
+      "contenido": "La coma se utiliza, entre otros usos, para separar elementos de una enumeración.\n\nEjemplo: Se presentaron solicitudes, escritos y documentos.\n\nTambién puede utilizarse para aislar incisos.\nEjemplo: El funcionario, una vez comprobada la documentación, procedió al registro.\n\nImportante: no debe colocarse una coma entre el sujeto y el verbo simplemente porque el sujeto sea largo.\n\nIncorrecto: La documentación presentada por los interesados, será revisada.\nCorrecto: La documentación presentada por los interesados será revisada."
+    },
+    {
+      "titulo": "29. EL PUNTO Y COMA ⭐⭐",
+      "contenido": "El punto y coma sirve para separar elementos relacionados entre sí cuando existe cierta complejidad o cuando los elementos contienen comas internas.\n\nEjemplo: Se revisaron las solicitudes de Cádiz, Sevilla y Huelva; posteriormente, se remitieron al órgano competente."
+    },
+    {
+      "titulo": "30. LOS DOS PUNTOS ⭐⭐⭐",
+      "contenido": "Los dos puntos pueden introducir una explicación, una consecuencia, una enumeración, una cita o información relacionada.\n\nEjemplo: Debe presentar la siguiente documentación: DNI, solicitud y justificante.\n\nDespués de los dos puntos puede aparecer minúscula cuando se introduce una enumeración o lista que no constituye una unidad independiente; puede aparecer mayúscula cuando se introduce una cita o una unidad independiente en determinados contextos.\n\nEjemplos:\n• Minúscula: Debe aportar: DNI, certificado y solicitud.\n• Mayúscula: El interesado manifestó: «No recibí la notificación».\n\nEn documentos administrativos puede aparecer mayúscula por la propia estructura documental.\nEjemplo: CERTIFICA:\nQue D.ª María Pérez..."
+    },
+    {
+      "titulo": "31. SIGNOS DE INTERROGACIÓN Y EXCLAMACIÓN ⭐⭐⭐",
+      "contenido": "En español se utilizan los signos de apertura y cierre: ¿...? y ¡...!.\n\nEjemplos:\n• ¿Dónde debe presentar la solicitud?\n• ¡Qué rapidez!\n\nSi la pregunta o exclamación constituye una oración completa, después del signo de cierre comienza una nueva oración con mayúscula.\nEjemplo: ¿Ha presentado la solicitud? Debe conservar el justificante.\n\nSi la pregunta o exclamación solo forma parte de una oración, la palabra siguiente puede escribirse en minúscula.\nEjemplo: Pero ¿qué documentación necesita?\n\nLa RAE diferencia estos usos según la función que desempeñe el signo."
+    },
+    {
+      "titulo": "32. PARÉNTESIS ⭐⭐",
+      "contenido": "Los paréntesis se utilizan para introducir información complementaria, aclaraciones o datos adicionales.\n\nEjemplo: El Ayuntamiento de Cádiz (Cádiz) publicó el anuncio.\n\nSe utilizan principalmente para introducir aclaraciones o información adicional."
+    },
+    {
+      "titulo": "33. COMILLAS ⭐⭐",
+      "contenido": "Las comillas pueden utilizarse para reproducir palabras exactas, señalar usos especiales o destacar determinadas expresiones.\n\nSe prefieren las comillas españolas o angulares: « ».\n\nEjemplo: El interesado declaró: «No he recibido la comunicación»."
+    },
+    {
+      "titulo": "34. RAYA Y GUION ⭐⭐",
+      "contenido": "No deben confundirse la raya y el guion.\n\nGuion (-): se utiliza para unir determinados elementos.\n\nRaya (—): se utiliza, entre otros usos, en diálogos o para introducir incisos.\n\nEjemplo: El funcionario —una vez comprobados los datos— continuó la tramitación."
+    },
+    {
+      "titulo": "35. ERRORES ORTOGRÁFICOS FRECUENTES ⭐⭐⭐",
+      "contenido": "1. No poner tilde en mayúsculas cuando corresponde:\nIncorrecto: ATENCION.\nCorrecto: ATENCIÓN.\n\n2. Escribir siglas con puntos:\nIncorrecto: D.N.I.\nCorrecto: DNI.\n\n3. Añadir -s al plural de las siglas en mayúsculas:\nPreferible: las ONG.\nNo: las ONGs.\n\n4. Poner tilde a una sigla escrita enteramente en mayúsculas:\nIncorrecto: D.N.Í.\nCorrecto: DNI.\n\n5. Confundir abreviaturas y símbolos:\npág. es una abreviatura; kg es un símbolo.\n\n6. Poner punto después de un símbolo:\nIncorrecto: 5 kg. cuando el punto pretende formar parte del símbolo.\nCorrecto: 5 kg.\n\n7. Abusar de las mayúsculas:\nIncorrecto: El Funcionario entregó el Documento al Ciudadano.\nPreferible: El funcionario entregó el documento al ciudadano.\n\n8. Poner coma entre sujeto y verbo:\nIncorrecto: La documentación presentada por los interesados, será revisada.\nCorrecto: La documentación presentada por los interesados será revisada."
+    },
+    {
+      "titulo": "36. TABLA COMPARATIVA FUNDAMENTAL ⭐⭐⭐",
+      "contenido": "CONCEPTO | EJEMPLO | PUNTO | PLURAL\nAbreviatura | pág. | Normalmente sí | págs.\nAbreviatura | Sr. | Sí | Sres.\nSigla | DNI | No | Normalmente invariable\nSigla | ONG | No | las ONG\nAcrónimo lexicalizado | ovni | No | ovnis\nAcrónimo lexicalizado | láser | No | láseres\nSímbolo | kg | No | Invariable\nSímbolo | km | No | Invariable"
+    },
+    {
+      "titulo": "37. REGLAS DE ORO PARA MEMORIZAR ⭐⭐⭐",
+      "contenido": "ARITMÉTICA:\n1. Suma: sumandos → suma.\n2. Resta: minuendo − sustraendo = diferencia.\n3. Multiplicación: factores → producto.\n4. División: dividendo ÷ divisor = cociente + resto.\n5. Nunca dividir entre cero.\n6. Paréntesis → multiplicar/dividir → sumar/restar.\n7. Porcentaje = cantidad de cada 100.\n8. Regla de tres directa: más → más; menos → menos.\n9. Proporcionalidad inversa: más → menos.\n10. 1 h = 60 min.\n11. 1 min = 60 s.\n12. 1 m = 100 cm.\n13. 1 kg = 1000 g.\n14. 1 L = 1000 mL.\n\nORTOGRAFÍA:\n15. Abreviatura → normalmente lleva punto.\n16. Sigla → normalmente no lleva puntos.\n17. Símbolo → no lleva punto.\n18. Siglas en mayúsculas → normalmente plural invariable.\n19. Las letras mayúsculas sí llevan tilde cuando corresponde.\n20. Las siglas escritas enteramente en mayúsculas no llevan tilde.\n21. Los símbolos no llevan tilde.\n22. Las palabras esdrújulas siempre llevan tilde.\n23. Las palabras agudas llevan tilde si terminan en vocal, n o s.\n24. Las palabras llanas llevan tilde si no terminan en vocal, n o s.\n25. Los interrogativos y exclamativos llevan tilde cuando tienen ese valor.\n26. Solo y los demostrativos normalmente no llevan tilde.\n27. Días, meses y estaciones se escriben en minúscula.\n28. Cargos y profesiones normalmente se escriben en minúscula.\n29. Después de punto se escribe mayúscula.\n30. Después de dos puntos puede escribirse mayúscula o minúscula según el caso.\n31. No debe colocarse coma entre sujeto y verbo.\n32. Después de una pregunta completa, tras el signo de cierre comienza una nueva oración con mayúscula."
+    },
+    {
+      "titulo": "38. RESUMEN DE MEMORIZACIÓN DEL TEMA 8 ⭐⭐⭐",
+      "contenido": "ARITMÉTICA:\n• Suma: a + b.\n• Resta: a − b.\n• Multiplicación: a × b.\n• División: a ÷ b.\n• Orden de operaciones: PARÉNTESIS → ×/÷ → +/−.\n• Fracción: numerador/denominador.\n• Porcentaje: x % = x/100.\n• Porcentaje de una cantidad = cantidad × porcentaje / 100.\n• Proporcionalidad directa: más → más.\n• Proporcionalidad inversa: más → menos.\n• Longitud: km → hm → dam → m → dm → cm → mm.\n• Masa: kg → hg → dag → g → dg → cg → mg.\n• Capacidad: kL → hL → daL → L → dL → cL → mL.\n• Tiempo: 1 h = 60 min; 1 min = 60 s.\n\nORTOGRAFÍA:\n• ABREVIATURA: pág., núm., art.\n• SIGLA: DNI, ONG, ONU.\n• ACRÓNIMO: láser, ovni, pyme.\n• SÍMBOLO: kg, km, m, L.\n• Abreviaturas: normalmente llevan punto.\n• Siglas: normalmente no llevan puntos.\n• Símbolos: no llevan punto.\n• Las siglas en mayúsculas normalmente no forman plural con -s.\n• Las mayúsculas llevan tilde cuando corresponde.\n• Las siglas escritas enteramente en mayúsculas no llevan tilde.\n• Los símbolos no llevan tilde.\n• Las esdrújulas siempre llevan tilde.\n• Agudas: llevan tilde si terminan en vocal, n o s.\n• Llanas: llevan tilde si no terminan en vocal, n o s.\n• Interrogativos: qué, cómo, cuándo, dónde, quién, etc.\n• Solo: normalmente sin tilde.\n• Demostrativos: normalmente sin tilde.\n• Cargos y profesiones: minúscula.\n• Días y meses: minúscula.\n• Después de punto: mayúscula.\n• Después de dos puntos: mayúscula o minúscula según el caso.\n• Nunca separar sujeto y verbo mediante una coma."
+    }
+  ]
+}

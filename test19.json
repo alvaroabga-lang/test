@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 4. Tema 4. Atención al Ciudadano",
+  "preguntas": [
+    {
+      "pregunta": "El artículo 13 reconoce el derecho:",
+      "opciones": {
+        "A": "A recibir asistencia en el uso de medios electrónicos.",
+        "B": "A no identificarse nunca.",
+        "C": "A acceder a cualquier dato privado.",
+        "D": "A modificar procedimientos."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El artículo 13 reconoce el derecho a utilizar:",
+      "opciones": {
+        "A": "Las lenguas oficiales en los términos legales.",
+        "B": "Cualquier idioma sin limitación.",
+        "C": "Solo el inglés.",
+        "D": "Ninguna lengua cooficial."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El artículo 13 reconoce el acceso a:",
+      "opciones": {
+        "A": "Información pública, archivos y registros.",
+        "B": "Cualquier expediente privado.",
+        "C": "Datos personales de terceros.",
+        "D": "Información secreta."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El artículo 13 reconoce el derecho a:",
+      "opciones": {
+        "A": "Ser tratados con respeto y deferencia.",
+        "B": "Exigir cualquier resultado.",
+        "C": "Dictar resoluciones.",
+        "D": "Eliminar sanciones."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El artículo 13 reconoce el derecho a:",
+      "opciones": {
+        "A": "Exigir responsabilidades cuando legalmente corresponda.",
+        "B": "Imponer sanciones.",
+        "C": "Resolver expedientes.",
+        "D": "Sustituir al funcionario."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El artículo 13 reconoce el derecho a:",
+      "opciones": {
+        "A": "Obtener y utilizar medios de identificación y firma electrónica.",
+        "B": "No identificarse.",
+        "C": "Utilizar cualquier firma sin requisitos.",
+        "D": "Eliminar la identificación."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La protección de datos incluye:",
+      "opciones": {
+        "A": "Seguridad y confidencialidad.",
+        "B": "Publicidad absoluta.",
+        "C": "Acceso universal.",
+        "D": "Eliminación automática."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Los derechos del artículo 13 se entienden:",
+      "opciones": {
+        "A": "Sin perjuicio de los derechos del artículo 53.",
+        "B": "En sustitución del artículo 53.",
+        "C": "Solo para funcionarios.",
+        "D": "Solo para empresas."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La Administración debe asistir en medios electrónicos especialmente en:",
+      "opciones": {
+        "A": "Identificación y firma electrónica.",
+        "B": "Cuestiones privadas.",
+        "C": "Decisiones judiciales.",
+        "D": "Actividades comerciales."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La asistencia electrónica también puede incluir:",
+      "opciones": {
+        "A": "Presentación de solicitudes por registro electrónico general.",
+        "B": "Modificación de leyes.",
+        "C": "Resolución judicial.",
+        "D": "Imposición de sanciones."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La asistencia electrónica también incluye:",
+      "opciones": {
+        "A": "Obtención de copias auténticas.",
+        "B": "Dictar sentencias.",
+        "C": "Aprobar presupuestos.",
+        "D": "Eliminar expedientes."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Un funcionario habilitado puede realizar la identificación o firma del interesado cuando:",
+      "opciones": {
+        "A": "Se cumplen los requisitos legales.",
+        "B": "Siempre que quiera.",
+        "C": "Nunca.",
+        "D": "El interesado no lo sepa."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Para la actuación del funcionario habilitado se requiere:",
+      "opciones": {
+        "A": "Consentimiento expreso del interesado.",
+        "B": "Consentimiento de un tercero.",
+        "C": "Ningún consentimiento.",
+        "D": "Autorización judicial siempre."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El interesado debe:",
+      "opciones": {
+        "A": "Identificarse ante el funcionario.",
+        "B": "No identificarse.",
+        "C": "Presentar siempre un documento privado.",
+        "D": "Ser funcionario."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Las Administraciones mantienen:",
+      "opciones": {
+        "A": "Registro o sistema equivalente de funcionarios habilitados.",
+        "B": "Registro de ciudadanos enfadados.",
+        "C": "Registro de llamadas privadas.",
+        "D": "Registro de preferencias personales."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Las personas físicas, como regla general:",
+      "opciones": {
+        "A": "Pueden elegir relacionarse electrónicamente o no.",
+        "B": "Están siempre obligadas.",
+        "C": "Nunca pueden utilizar medios electrónicos.",
+        "D": "Solo pueden acudir presencialmente."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Una persona física estará obligada a relacionarse electrónicamente:",
+      "opciones": {
+        "A": "Cuando exista obligación legal.",
+        "B": "Siempre.",
+        "C": "Nunca.",
+        "D": "Solo si tiene correo electrónico."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Las personas jurídicas están:",
+      "opciones": {
+        "A": "Obligadas a relacionarse electrónicamente.",
+        "B": "Siempre exentas.",
+        "C": "Obligadas solo telefónicamente.",
+        "D": "Obligadas solo presencialmente."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "También están obligadas, en los términos legales:",
+      "opciones": {
+        "A": "Las entidades sin personalidad jurídica.",
+        "B": "Solo las personas jubiladas.",
+        "C": "Solo los estudiantes.",
+        "D": "Solo los menores."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Los profesionales con colegiación obligatoria están obligados:",
+      "opciones": {
+        "A": "En los trámites que realicen con las Administraciones en ejercicio de dicha actividad profesional.",
+        "B": "En toda actuación de su vida privada.",
+        "C": "Nunca.",
+        "D": "Solo telefónicamente."
+      },
+      "respuesta_correcta": "A"
+    }
+  ]
+}

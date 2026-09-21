@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 4. Tema 4. Atención al Ciudadano",
+  "preguntas": [
+    {
+      "pregunta": "¿Cuál es la finalidad principal de la atención al ciudadano?",
+      "opciones": {
+        "A": "Facilitar la relación entre ciudadanía y Administración.",
+        "B": "Sustituir a los órganos administrativos.",
+        "C": "Eliminar los procedimientos.",
+        "D": "Resolver judicialmente los conflictos."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál de los siguientes es un principio de atención al ciudadano?",
+      "opciones": {
+        "A": "Favoritismo.",
+        "B": "Arbitrariedad.",
+        "C": "Respeto.",
+        "D": "Discriminación."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "La información administrativa debe procurar ser:",
+      "opciones": {
+        "A": "Confusa.",
+        "B": "Clara y comprensible.",
+        "C": "Siempre técnica.",
+        "D": "Incompleta."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La imparcialidad implica:",
+      "opciones": {
+        "A": "Favorecer a los conocidos.",
+        "B": "Actuar objetivamente.",
+        "C": "Dar siempre la razón al ciudadano.",
+        "D": "Ignorar las normas."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La eficacia consiste en:",
+      "opciones": {
+        "A": "Conseguir los objetivos previstos.",
+        "B": "Utilizar siempre más recursos.",
+        "C": "Evitar la atención presencial.",
+        "D": "Resolver sin procedimiento."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La eficiencia se refiere a:",
+      "opciones": {
+        "A": "Conseguir resultados utilizando adecuadamente los recursos.",
+        "B": "No utilizar recursos.",
+        "C": "Evitar informar.",
+        "D": "Resolver siempre inmediatamente."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El ciudadano tiene derecho a ser tratado:",
+      "opciones": {
+        "A": "Con respeto y deferencia.",
+        "B": "Con preferencia.",
+        "C": "Con arbitrariedad.",
+        "D": "Con indiferencia."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La escucha activa consiste en:",
+      "opciones": {
+        "A": "Interrumpir.",
+        "B": "Escuchar y comprender la necesidad.",
+        "C": "Hablar continuamente.",
+        "D": "Evitar preguntas."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La empatía consiste en:",
+      "opciones": {
+        "A": "Dar siempre la razón.",
+        "B": "Comprender la perspectiva de otra persona.",
+        "C": "Resolver cualquier expediente.",
+        "D": "Ignorar las emociones."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La asertividad consiste en:",
+      "opciones": {
+        "A": "Ser agresivo.",
+        "B": "Expresarse de forma clara y respetuosa.",
+        "C": "Ser pasivo siempre.",
+        "D": "Evitar hablar."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Ante un ciudadano enfadado debe:",
+      "opciones": {
+        "A": "Gritarse.",
+        "B": "Mantenerse la calma.",
+        "C": "Discutirse.",
+        "D": "Ignorarse."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "Si no se conoce una respuesta debe:",
+      "opciones": {
+        "A": "Inventarse.",
+        "B": "Darse una respuesta aproximada.",
+        "C": "Comprobarse o derivarse.",
+        "D": "Ocultarse."
+      },
+      "respuesta_correcta": "C"
+    },
+    {
+      "pregunta": "La confidencialidad exige:",
+      "opciones": {
+        "A": "Facilitar datos a cualquiera.",
+        "B": "Proteger la información reservada.",
+        "C": "Publicar expedientes.",
+        "D": "Comentar datos privados."
+      },
+      "respuesta_correcta": "B"
+    },
+    {
+      "pregunta": "La accesibilidad pretende:",
+      "opciones": {
+        "A": "Facilitar el acceso a los servicios.",
+        "B": "Limitarlo.",
+        "C": "Eliminar la atención presencial.",
+        "D": "Impedir trámites."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La Ley fundamental en materia de procedimiento administrativo común es:",
+      "opciones": {
+        "A": "Ley 39/2015.",
+        "B": "Ley 31/1995.",
+        "C": "Código Penal.",
+        "D": "Código Civil."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El artículo 13 de la Ley 39/2015 regula:",
+      "opciones": {
+        "A": "Derechos de las personas en sus relaciones con las Administraciones.",
+        "B": "Recursos judiciales.",
+        "C": "Contratos.",
+        "D": "Archivo histórico."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El artículo 12 regula:",
+      "opciones": {
+        "A": "Asistencia en el uso de medios electrónicos.",
+        "B": "Derechos de los interesados.",
+        "C": "Notificaciones exclusivamente.",
+        "D": "Recursos."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El artículo 14 regula:",
+      "opciones": {
+        "A": "Derecho y obligación de relacionarse electrónicamente.",
+        "B": "Archivo.",
+        "C": "Silencio.",
+        "D": "Recursos."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El artículo 53 regula:",
+      "opciones": {
+        "A": "Derechos de los interesados en el procedimiento.",
+        "B": "Derechos de todos los ciudadanos exclusivamente.",
+        "C": "Registro civil.",
+        "D": "Atención telefónica."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El artículo 13 reconoce el derecho:",
+      "opciones": {
+        "A": "A comunicarse con las Administraciones mediante el Punto de Acceso General electrónico.",
+        "B": "A eliminar expedientes.",
+        "C": "A modificar resoluciones.",
+        "D": "A incumplir plazos."
+      },
+      "respuesta_correcta": "A"
+    }
+  ]
+}

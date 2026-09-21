@@ -1,0 +1,205 @@
+{
+  "titulo": "Test 4. Tema 4. Atención al Ciudadano",
+  "preguntas": [
+    {
+      "pregunta": "El uso de palabras incomprensibles puede generar una barrera:",
+      "opciones": {
+        "A": "Semántica.",
+        "B": "Física.",
+        "C": "Técnica exclusivamente.",
+        "D": "Mecánica."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El ruido ambiental constituye una barrera:",
+      "opciones": {
+        "A": "Física.",
+        "B": "Semántica.",
+        "C": "Jurídica.",
+        "D": "Administrativa."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El lenguaje claro debe:",
+      "opciones": {
+        "A": "Facilitar la comprensión.",
+        "B": "Complicar el mensaje.",
+        "C": "Utilizar tecnicismos siempre.",
+        "D": "Evitar instrucciones."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Una buena explicación administrativa debería permitir conocer:",
+      "opciones": {
+        "A": "Qué, dónde, cómo, cuándo y qué documentación.",
+        "B": "Solo quién.",
+        "C": "Solo cuándo.",
+        "D": "Solo dónde."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Ante una persona con discapacidad debe:",
+      "opciones": {
+        "A": "Facilitarse una atención accesible.",
+        "B": "Negarse la atención.",
+        "C": "Hablarse siempre con otra persona.",
+        "D": "Ignorarse sus necesidades."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El empleado debe:",
+      "opciones": {
+        "A": "Preguntar si la persona necesita ayuda cuando proceda.",
+        "B": "Suponer siempre qué necesita.",
+        "C": "Ignorarla.",
+        "D": "Negarse a adaptar la comunicación."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "En la atención a personas mayores debe utilizarse:",
+      "opciones": {
+        "A": "Lenguaje claro y trato respetuoso.",
+        "B": "Tono infantil.",
+        "C": "Lenguaje despectivo.",
+        "D": "Información confusa."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El Subalterno/a debe actuar:",
+      "opciones": {
+        "A": "Dentro de las funciones de su puesto.",
+        "B": "Como órgano superior siempre.",
+        "C": "Como juez.",
+        "D": "Como legislador."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Si una cuestión corresponde a otro servicio:",
+      "opciones": {
+        "A": "Debe orientarse o derivarse correctamente.",
+        "B": "Debe inventarse la respuesta.",
+        "C": "Debe ignorarse.",
+        "D": "Debe resolverse sin competencia."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "El Subalterno/a no debe:",
+      "opciones": {
+        "A": "Asumir competencias que no le correspondan.",
+        "B": "Orientar.",
+        "C": "Informar dentro de sus funciones.",
+        "D": "Atender correctamente."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La atención telefónica se diferencia de la presencial porque:",
+      "opciones": {
+        "A": "No existe contacto visual directo.",
+        "B": "No existe comunicación oral.",
+        "C": "No puede orientarse.",
+        "D": "No puede escucharse."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "En una llamada debe evitarse:",
+      "opciones": {
+        "A": "Facilitar información confidencial a quien no esté legitimado.",
+        "B": "Escuchar.",
+        "C": "Orientar.",
+        "D": "Identificar el servicio."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "Ante un ciudadano enfadado es recomendable:",
+      "opciones": {
+        "A": "Mantener la calma.",
+        "B": "Gritar.",
+        "C": "Insultar.",
+        "D": "Amenazar."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La empatía:",
+      "opciones": {
+        "A": "No significa dar siempre la razón.",
+        "B": "Significa aceptar siempre cualquier petición.",
+        "C": "Permite incumplir normas.",
+        "D": "Obliga a resolver cualquier trámite."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La asertividad:",
+      "opciones": {
+        "A": "Permite expresar límites de forma respetuosa.",
+        "B": "Es agresividad.",
+        "C": "Es pasividad absoluta.",
+        "D": "Impide comunicarse."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La profesionalidad implica:",
+      "opciones": {
+        "A": "Conocer las funciones y actuar correctamente.",
+        "B": "Inventar respuestas.",
+        "C": "Favorecer amigos.",
+        "D": "Ignorar las normas."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La imparcialidad exige:",
+      "opciones": {
+        "A": "No favorecer injustificadamente.",
+        "B": "Favorecer a familiares.",
+        "C": "Resolver según simpatías.",
+        "D": "Aplicar criterios diferentes sin motivo."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "La confidencialidad exige:",
+      "opciones": {
+        "A": "No divulgar información reservada.",
+        "B": "Publicar datos personales.",
+        "C": "Comentar expedientes.",
+        "D": "Facilitar información a cualquiera."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál es la diferencia fundamental entre los artículos 13 y 53?",
+      "opciones": {
+        "A": "El 13 recoge derechos de las personas en su relación con la Administración y el 53 derechos de los interesados en un procedimiento.",
+        "B": "Ambos regulan exactamente lo mismo.",
+        "C": "El 13 regula únicamente sanciones.",
+        "D": "El 53 regula exclusivamente oficinas."
+      },
+      "respuesta_correcta": "A"
+    },
+    {
+      "pregunta": "¿Cuál resume mejor el Tema 4?",
+      "opciones": {
+        "A": "Atención al ciudadano, principios, derechos, oficinas y comunicación.",
+        "B": "Únicamente informática.",
+        "C": "Únicamente archivo.",
+        "D": "Únicamente notificaciones."
+      },
+      "respuesta_correcta": "A"
+    }
+  ]
+}
